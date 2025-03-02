@@ -4,7 +4,7 @@
 ## 1. 仓库简介
 
 - [x] [0016. 仓库简介](https://tdahuyou.github.io/TNotes.notes/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README) <!-- [locale](./notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README) -->  
-  - [1. 📒 pc 笔记仓库内容简介](https://tdahuyou.github.io/TNotes.notes/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#1--pc-笔记仓库内容简介)
+  - [1. 📒 TNotes.notes 笔记仓库内容简介](https://tdahuyou.github.io/TNotes.notes/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#1--tnotesnotes-笔记仓库内容简介)
   - [2. 🔗 bilibili 视频链接](https://tdahuyou.github.io/TNotes.notes/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#2--bilibili-视频链接)
   - [3. ⏰ 搬运 yuque 上的工具分享笔记](https://tdahuyou.github.io/TNotes.notes/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README#3--搬运-yuque-上的工具分享笔记)
   
@@ -17,32 +17,21 @@
   
 
   - [bilibili.TNotes.notes.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)、[bilibili.TNotes.notes.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
-  - [1. 🔗 snipaste 相关链接](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#1--snipaste-相关链接)
-  - [2. 📺 bilibili 在线视频 👉🏻 截图工具 | snipaste 的使用分享](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#2--bilibili-在线视频--截图工具--snipaste-的使用分享)
-  - [3. 📺 bilibili 在线视频 👉🏻 使用 snipaste 截图工具截取图片文件的正确做法](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#3--bilibili-在线视频--使用-snipaste-截图工具截取图片文件的正确做法)
-  - [4. 🔍 查看我的 snipaste 首选项配置](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#4--查看我的-snipaste-首选项配置)
-  - [5. 💻 实现网页长截图](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#5--实现网页长截图)
-  - [6. 💻 文本截图](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#6--文本截图)
-  - [7. 💻 快速截全屏](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#7--快速截全屏)
-  - [8. ⏰ 使用贴图，快速拼出简易的封面](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#8--使用贴图快速拼出简易的封面)
-  - [9. 🤔 snipaste 将来来会支持长截图（滚动截图）功能吗？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#9--snipaste-将来来会支持长截图滚动截图功能吗)
-  - [10. 🤔 snipaste 的设计初衷是？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#10--snipaste-的设计初衷是)
-  - [11. 🤔 对于 snipaste 来说，何为一次完整的截图？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#11--对于-snipaste-来说何为一次完整的截图)
-  - [12. 🤔 如何开启自动检测窗口？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#12--如何开启自动检测窗口)
-  - [13. 🤔 如何实现无损截图？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#13--如何实现无损截图)
-  - [14. 🤔 能被复制的内容就能被贴出来吗？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#14--能被复制的内容就能被贴出来吗)
-  - 内容概述：
-    - Snipaste 是什么？
-    - 取色
-    - 贴图
-    - 文本截图
-    - 快速截全屏
-    - 自动检测窗口
-    - 无损截图
-    - 使用浏览器命令实现网页长截图
-    - Snipaste 的设计初衷是？
-    - 汇总并答复网友反馈的相关问题
-    - ……
+  - [1. 📒 内容概述](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#1--内容概述)
+  - [2. 🔗 snipaste 相关链接](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#2--snipaste-相关链接)
+  - [3. 📺 bilibili 在线视频 👉🏻 截图工具 | snipaste 的使用分享](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#3--bilibili-在线视频--截图工具--snipaste-的使用分享)
+  - [4. 📺 bilibili 在线视频 👉🏻 使用 snipaste 截图工具截取图片文件的正确做法](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#4--bilibili-在线视频--使用-snipaste-截图工具截取图片文件的正确做法)
+  - [5. 🔍 查看我的 snipaste 首选项配置](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#5--查看我的-snipaste-首选项配置)
+  - [6. 💻 实现网页长截图](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#6--实现网页长截图)
+  - [7. 💻 文本截图](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#7--文本截图)
+  - [8. 💻 快速截全屏](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#8--快速截全屏)
+  - [9. ⏰ 使用贴图，快速拼出简易的封面](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#9--使用贴图快速拼出简易的封面)
+  - [10. 🤔 snipaste 将来来会支持长截图（滚动截图）功能吗？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#10--snipaste-将来来会支持长截图滚动截图功能吗)
+  - [11. 🤔 snipaste 的设计初衷是？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#11--snipaste-的设计初衷是)
+  - [12. 🤔 对于 snipaste 来说，何为一次完整的截图？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#12--对于-snipaste-来说何为一次完整的截图)
+  - [13. 🤔 如何开启自动检测窗口？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#13--如何开启自动检测窗口)
+  - [14. 🤔 如何实现无损截图？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#14--如何实现无损截图)
+  - [15. 🤔 能被复制的内容就能被贴出来吗？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#15--能被复制的内容就能被贴出来吗)
   
 
 - [ ] [0017. 回复关于 snipaste 下载失败的问题](https://tdahuyou.github.io/TNotes.notes/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) <!-- [locale](./notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) -->  
@@ -50,12 +39,10 @@
   - ![](https://raw.githubusercontent.com/Tdahuyou/TNotes.notes/main/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/assets%2F2024-12-14-21-47-53.png)
   
 
-- [ ] [0019. 梦想中完美的截图软件，终于有人开发出来了！--bilibili--玄离199](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README) <!-- [locale](./notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README) -->  
-  - [1. 📝 个人评价](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README#1--个人评价)
-  - [2. ⏰ 找时间体验一下 pixpin，参考官方文档，将所有功能都过一遍，确实好使的话，可以考虑从 snipaste 过渡到 pixpin。](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README#2--找时间体验一下-pixpin参考官方文档将所有功能都过一遍确实好使的话可以考虑从-snipaste-过渡到-pixpin)
-  - https://b23.tv/1ZLiTpl
-    - 梦想中完美的截图软件，终于有人开发出来了！--bilibili--玄离199
-    - 视频中提到了 windows 系统自带的截图软件、snipaste、pixpin、QQ 截图、钉钉截图。
+- [x] [0019. 梦想中完美的截图软件，终于有人开发出来了！--bilibili--玄离199](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README) <!-- [locale](./notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README) -->  
+  - [1. 📺 视频链接](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README#1--视频链接)
+  - [2. 📝 个人评价](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README#2--个人评价)
+  - [3. ⏰ 找时间体验一下 pixpin，参考官方文档，将所有功能都过一遍，确实好使的话，可以考虑从 snipaste 过渡到 pixpin。](https://tdahuyou.github.io/TNotes.notes/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README#3--找时间体验一下-pixpin参考官方文档将所有功能都过一遍确实好使的话可以考虑从-snipaste-过渡到-pixpin)
   
 
 ### 2.2. wgesture
