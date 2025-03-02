@@ -176,15 +176,15 @@
 ## 3. 系统常用快捷方式
 
 - [ ] [0002. Windows 锁屏快捷键](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md) <!-- [locale](./notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md) -->  
-  - [1. 📒 `win L`](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md#1--win-l)
-  
+  - [1. ⏰ TODO - 可以汇总一下 Windows 上常用的快捷方式，重命名该笔记。](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md#1--todo---可以汇总一下-windows-上常用的快捷方式重命名该笔记)
+  - [2. 📒 `win L`](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md#2--win-l)
   
 
 ## 4. 浏览器
 
 ### 4.1. 浏览器插件
 
-- [ ] [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) <!-- [locale](./notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) -->  
+- [x] [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) <!-- [locale](./notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) -->  
   - [1. 🔗 Scripty 在线配置](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md#1--scripty-在线配置)
   - [2. 📒 使用说明](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md#2--使用说明)
   - [3. 🔍 插件作者 abhisheksatre](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md#3--插件作者-abhisheksatre)
