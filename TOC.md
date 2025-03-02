@@ -47,25 +47,14 @@
 
 ### 2.2. wgesture
 
-- [ ] [0006. Wgesture 鼠标手势工具](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README) <!-- [locale](./notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README) -->  
+- [x] [0006. Wgesture 鼠标手势工具](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README) <!-- [locale](./notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README) -->  
   
 
   - [bilibili.TNotes.notes.0006.1](https://www.bilibili.com/video/BV1HM411z7Vn)
-  - [1. 🔗 wgestures](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#1--wgestures)
-  - [2. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#2--macos-上的窗口管理工具---tilesrectangle)
-  - [3. 📺 bilibili](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#3--bilibili)
+  - [1. 📺 bilibili 在线视频](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#1--bilibili-在线视频)
+  - [2. 🔗 wgestures](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#2--wgestures)
+  - [3. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#3--macos-上的窗口管理工具---tilesrectangle)
   - [4. 📒 视频中涉及到的一些快捷方式](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#4--视频中涉及到的一些快捷方式)
-    - [4.1. 打开调度器 - 展示所有桌面](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#41-打开调度器---展示所有桌面)
-    - [4.2. 切换桌面](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#42-切换桌面)
-    - [4.3. 浏览器标签切换](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#43-浏览器标签切换)
-    - [4.4. 桌面窗口控制](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#44-桌面窗口控制)
-    - [4.5. 浏览器打开控制台](https://tdahuyou.github.io/TNotes.notes/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README#45-浏览器打开控制台)
-  - ~~往期工具分享的一些补充说明……~~ —— 请跳过这部分，这部分介绍的内容和早期的视频分享策略相关，现已弃用。
-  - WGesture 常用功能的使用分享……
-    - 桌面控制
-    - 窗口控制
-    - 快速搜索
-    - 其它……
   
 
 ### 2.3. 微信读书脚本
