@@ -1,4 +1,4 @@
-# [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/pc/tree/main/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D)
+# [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D)
 
 <!-- region:toc -->
 - [1. 🔗 Scripty 在线配置](#1--scripty-在线配置)

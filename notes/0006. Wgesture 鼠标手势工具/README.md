@@ -1,9 +1,9 @@
-# [0006. Wgesture 鼠标手势工具](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7)
+# [0006. Wgesture 鼠标手势工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7)
 
 <!-- region:toc -->
 
 
-- [bilibili.pc.0006.1](https://www.bilibili.com/video/BV1HM411z7Vn)
+- [bilibili.TNotes.notes.0006.1](https://www.bilibili.com/video/BV1HM411z7Vn)
 - [1. 🔗 wgestures](#1--wgestures)
 - [2. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](#2--macos-上的窗口管理工具---tilesrectangle)
 - [3. 📺 bilibili](#3--bilibili)

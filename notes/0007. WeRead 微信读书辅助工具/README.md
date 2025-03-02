@@ -1,9 +1,9 @@
-# [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
+# [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 
 <!-- region:toc -->
 
 
-- [bilibili.pc.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)、[bilibili.pc.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
+- [bilibili.TNotes.notes.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)、[bilibili.TNotes.notes.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
 - [1. ⏰ 发布一个 chrome 插件版，并优化代码结构，重新录制介绍视频，将早期的视频给下架掉。](#1--发布一个-chrome-插件版并优化代码结构重新录制介绍视频将早期的视频给下架掉)
 - [2. 📺 bilibili](#2--bilibili)
 - [3. 🔗 Pack - tw93 大佬的 github 开源项目](#3--pack---tw93-大佬的-github-开源项目)

@@ -1,4 +1,4 @@
-# [0002. Windows 锁屏快捷键](https://github.com/Tdahuyou/pc/tree/main/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE)
+# [0002. Windows 锁屏快捷键](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
 <!-- region:toc -->
 - [1. 📒 `win L`](#1--win-l)

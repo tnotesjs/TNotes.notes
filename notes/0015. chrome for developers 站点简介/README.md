@@ -1,4 +1,4 @@
-# [0015. chrome for developers 站点简介](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B)
+# [0015. chrome for developers 站点简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 - [1. 🔗 chrome for developers](#1--chrome-for-developers)

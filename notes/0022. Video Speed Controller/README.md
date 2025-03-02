@@ -1,4 +1,4 @@
-# [0022. Video Speed Controller](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller)
+# [0022. Video Speed Controller](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0022.%20Video%20Speed%20Controller)
 
 <!-- region:toc -->
 - [1. 📒 Video Speed Controller 是什么](#1--video-speed-controller-是什么)
