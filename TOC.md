@@ -34,7 +34,7 @@
   - [15. 🤔 能被复制的内容就能被贴出来吗？](https://tdahuyou.github.io/TNotes.notes/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README#15--能被复制的内容就能被贴出来吗)
   
 
-- [ ] [0017. 回复关于 snipaste 下载失败的问题](https://tdahuyou.github.io/TNotes.notes/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) <!-- [locale](./notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) -->  
+- [x] [0017. 回复关于 snipaste 下载失败的问题](https://tdahuyou.github.io/TNotes.notes/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) <!-- [locale](./notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README) -->  
   - [1. 🫧 网友反馈的问题](https://tdahuyou.github.io/TNotes.notes/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README#1--网友反馈的问题)
   - [2. 💻 解决方案](https://tdahuyou.github.io/TNotes.notes/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README#2--解决方案)
   
