@@ -37,7 +37,7 @@
 
 ### 2.1. snipaste
 
-- [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
+- [x] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./notes/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
   
 
   - [bilibili.TNotes.notes.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)、[bilibili.TNotes.notes.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
@@ -59,8 +59,8 @@
   
 
 - [ ] [0017. 回复关于 snipaste 下载失败的问题](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md) -->  
-  - [1. 💻 解决方案](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md#1--解决方案)
-  - ![](https://raw.githubusercontent.com/Tdahuyou/TNotes.notes/main/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/assets%2F2024-12-14-21-47-53.png)
+  - [1. 🫧 网友反馈的问题](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md#1--网友反馈的问题)
+  - [2. 💻 解决方案](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md#2--解决方案)
   
 
 - [x] [0019. 梦想中完美的截图软件，终于有人开发出来了！--bilibili--玄离199](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README.md) <!-- [locale](./notes/0019.%20%E6%A2%A6%E6%83%B3%E4%B8%AD%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81--bilibili--%E7%8E%84%E7%A6%BB199/README.md) -->  
