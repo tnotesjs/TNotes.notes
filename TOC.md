@@ -226,13 +226,11 @@
 
 ## 6. 📒 markdown
 
-- [ ] [0023. Writing on GitHub](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README) <!-- [locale](./notes/0023.%20Writing%20on%20GitHub/README) -->  
-  
+- [x] [0023. Writing on GitHub](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README) <!-- [locale](./notes/0023.%20Writing%20on%20GitHub/README) -->  
   - [1. 🔗 Writing on GitHub](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README#1--writing-on-github)
   - [2. 📒 github 对传统的 markdown 做了一些扩展](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README#2--github-对传统的-markdown-做了一些扩展)
     - [2.1. 💻 demo - Using emojis](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README#21--demo---using-emojis)
     - [2.2. 💻 demo - Alerts](https://tdahuyou.github.io/TNotes.notes/notes/0023.%20Writing%20on%20GitHub/README#22--demo---alerts)
-  
   
 
 - [ ] [0024. 在 GitHub 上编写内联公式需要和中文字符区分开](https://tdahuyou.github.io/TNotes.notes/notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80/README) <!-- [locale](./notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80/README) -->  
