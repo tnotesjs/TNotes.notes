@@ -254,11 +254,9 @@
   
   - [1. 🔗 Writing on GitHub](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#1--writing-on-github)
   - [2. 📒 github 对传统的 markdown 做了一些扩展](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#2--github-对传统的-markdown-做了一些扩展)
-  - [3. 💻 Using emojis](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#3--using-emojis)
-  - [4. 💻 Alerts](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#4--alerts)
-  - GitHub 对 Markdown 进行了扩展，有些写法是 GitHub 上特定支持的，在本地编写 markdown 时也许看不到效果。这篇笔记所记录的内容，其实就是一部分 Github 上支持的 markdown 的特殊语法。
-  - 如果在 github 上查看其他人写的文档时，发现一些特殊的效果不知道如何使用 markdown 来编写，那么可以到 [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) 这篇官方提供的文档中找找看相应的语法介绍。比如下面这些 Alerts
-    - ![](https://raw.githubusercontent.com/Tdahuyou/TNotes.notes/main/0023.%20Writing%20on%20GitHub/assets%2F2024-10-16-15-19-48.png)
+    - [2.1. 💻 demo - Using emojis](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#21--demo---using-emojis)
+    - [2.2. 💻 demo - Alerts](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub/README.md#22--demo---alerts)
+  
   
 
 - [ ] [0024. 在 GitHub 上编写内联公式需要和中文字符区分开](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80/README.md) <!-- [locale](./notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80/README.md) -->  
