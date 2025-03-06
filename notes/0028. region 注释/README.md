@@ -1,12 +1,11 @@
 # [0028. region 注释](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0028.%20region%20%E6%B3%A8%E9%87%8A)
 
 <!-- region:toc -->
-- [1. 📒 region 注释](#1--region-注释)
+- [1. 📒 region 注释的写法和作用](#1--region-注释的写法和作用)
+- [2. 💻 demos.1 - region 注释示例](#2--demos1---region-注释示例)
 <!-- endregion:toc -->
-- 介绍了 region 注释是什么，有什么作用。
-- 介绍了在 vsocde 中编写 region 注释的基本语法。
 
-## 1. 📒 region 注释
+## 1. 📒 region 注释的写法和作用
 
 - region 注释的格式非常简单，只需要在开始位置加上 region，结束位置加上 endregion 即可。
 - region 注释的作用：
@@ -20,5 +19,62 @@
 // #endregion 描述信息
 ```
 
-![](assets/2024-10-09-22-46-18.png)
+## 2. 💻 demos.1 - region 注释示例
 
+::: code-group
+
+```js {1,5,7,9,11,25,27,42,44,48}
+//#region Imports
+const express = require('express');
+const app = express();
+const PORT = 3000;
+//#endregion
+
+//#region Configurations
+app.use(express.json());
+//#endregion
+
+//#region Database Mock Functions
+// ...
+// This region simulates some database operations
+
+/**
+ * Simulate fetching data from a database.
+ */
+function fetchData() {
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve([{ id: 1, name: 'John Doe' }, { id: 2, name: 'Jane Doe' }]);
+    }, 1000);
+  });
+}
+//#endregion
+
+//#region API Endpoints
+// ...
+// Setup a simple API endpoint
+
+/**
+ * GET /users endpoint to fetch a list of users.
+ */
+app.get('/users', async (req, res) => {
+  try {
+    const data = await fetchData();
+    res.json(data);
+  } catch (error) {
+    res.status(500).send('Error fetching data');
+  }
+});
+//#endregion
+
+//#region Server Startup
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
+});
+//#endregion
+```
+
+:::
+
+- 每一个 region 区域都可以折叠起来，这样，当一个模块中代码量比较大的时候，可以更好的集中精力关注核心的代码块。
+- ![](assets/2024-10-09-22-46-18.png)

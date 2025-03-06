@@ -199,10 +199,9 @@
 
 ## 5. vscode
 
-- [ ] [0028. region 注释](https://tdahuyou.github.io/TNotes.notes/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README) <!-- [locale](./notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README) -->  
-  - [1. 📒 region 注释](https://tdahuyou.github.io/TNotes.notes/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README#1--region-注释)
-  - 介绍了 region 注释是什么，有什么作用。
-  - 介绍了在 vsocde 中编写 region 注释的基本语法。
+- [x] [0028. region 注释](https://tdahuyou.github.io/TNotes.notes/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README) <!-- [locale](./notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README) -->  
+  - [1. 📒 region 注释的写法和作用](https://tdahuyou.github.io/TNotes.notes/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README#1--region-注释的写法和作用)
+  - [2. 💻 demos.1 - region 注释示例](https://tdahuyou.github.io/TNotes.notes/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README#2--demos1---region-注释示例)
   
 
 - [ ] [0029. 固定的标签换行展示](https://tdahuyou.github.io/TNotes.notes/notes/0029.%20%E5%9B%BA%E5%AE%9A%E7%9A%84%E6%A0%87%E7%AD%BE%E6%8D%A2%E8%A1%8C%E5%B1%95%E7%A4%BA/README) <!-- [locale](./notes/0029.%20%E5%9B%BA%E5%AE%9A%E7%9A%84%E6%A0%87%E7%AD%BE%E6%8D%A2%E8%A1%8C%E5%B1%95%E7%A4%BA/README) -->  
