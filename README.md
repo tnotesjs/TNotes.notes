@@ -16,11 +16,8 @@
     - [2.10. screen brush](#210-screen-brush)
     - [2.11. LICEcap](#211-licecap)
   - [3. 系统常用快捷方式](#3-系统常用快捷方式)
-  - [4. 浏览器](#4-浏览器)
-    - [4.1. 浏览器插件](#41-浏览器插件)
-    - [4.2. 浏览器脚本](#42-浏览器脚本)
-    - [4.3. 浏览器插件开发](#43-浏览器插件开发)
-  - [5. vscode](#5-vscode)
+  - [4. 浏览器 - chrome](#4-浏览器---chrome)
+  - [5. 文本编辑器 - vscode](#5-文本编辑器---vscode)
   - [6. B 站收藏](#6-b-站收藏)
   - [7. 📒 markdown](#7--markdown)
   - [8. 掌握 AI 的基本使用技巧](#8-掌握-ai-的基本使用技巧)
@@ -181,9 +178,7 @@
   - [2. 📒 `win L`](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE/README.md#2--win-l)
   
 
-## 4. 浏览器
-
-### 4.1. 浏览器插件
+## 4. 浏览器 - chrome
 
 - [x] [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) <!-- [locale](./notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md) -->  
   - [1. 🔗 Scripty 在线配置](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/README.md#1--scripty-在线配置)
@@ -208,21 +203,36 @@
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 4.2. 浏览器脚本
-
 - [ ] [0003. 在 GitHub 上预览自己的笔记时处理一些默认样式](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F/README.md) <!-- [locale](./notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F/README.md) -->  
   - [1. 📒 脚本功能简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F/README.md#1--脚本功能简介)
   - [2. 💻 实现脚本](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0003.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E9%A2%84%E8%A7%88%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%94%E8%AE%B0%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F/README.md#2--实现脚本)
   
-
-### 4.3. 浏览器插件开发
 
 - [ ] [0015. chrome for developers 站点简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./notes/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) -->  
   - [1. 🔗 chrome for developers](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#1--chrome-for-developers)
   - [2. ⏰ 搂一眼这个站点里边的内容，在笔记中记录一下大致的结构、内容等。](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#2--搂一眼这个站点里边的内容在笔记中记录一下大致的结构内容等)
   
 
-## 5. vscode
+- [ ] [0034. chrome 插件发布流程](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) <!-- [locale](./notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) -->  
+  - [1. 🔗 注册成为 chrome 开发者](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1--注册成为-chrome-开发者)
+  - [2. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#2--查看-chrome-官方对开发者发布的插件的一些规范要求)
+  - [3. 🔗 查看 chrome 插件开发文档 - API reference](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#3--查看-chrome-插件开发文档---api-reference)
+  - [4. 📒 Chrome 插件发布的主要步骤](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#4--chrome-插件发布的主要步骤)
+    - [4.1. 前提条件](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#41-前提条件)
+    - [4.2. 发布步骤](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#42-发布步骤)
+    - [4.3. 注意事项](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#43-注意事项)
+  
+
+- [ ] [0035. 将网页转为本地应用](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README.md) <!-- [locale](./notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README.md) -->  
+  - [1. 📒 保存为本地应用的作用](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README.md#1--保存为本地应用的作用)
+  - [2. 📒 基本步骤说明](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README.md#2--基本步骤说明)
+  
+
+- [ ] [0036. 使用 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md) <!-- [locale](./notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md) -->  
+  - [1. 🔗 wiki - chromium - Browsers based on Chromium](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md#1--wiki---chromium---browsers-based-on-chromium)
+  
+
+## 5. 文本编辑器 - vscode
 
 - [x] [0028. region 注释](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md) <!-- [locale](./notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md) -->  
   - [1. 📒 region 注释的写法和作用](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md#1--region-注释的写法和作用)
