@@ -199,8 +199,16 @@
   - [5. 📒 Chrome 插件的发布步骤](https://tdahuyou.github.io/TNotes.notes/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README#5--chrome-插件的发布步骤)
   - [6. ⚠️ Chrome 插件发布的一些注意事项](https://tdahuyou.github.io/TNotes.notes/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README#6-️-chrome-插件发布的一些注意事项)
   
+  ::: tip 内容概述
+  - 笔记中大致记录了发布 Chrome 插件的前提、基本流程、以及一些注意事项。
+  - 流程简述：
+    - 1️⃣ 按照官方文档的描述写好插件，打好包。
+    - 2️⃣ 然后得有一个 chrome 账号，缴 5 美元的开发者注册费。
+    - 3️⃣ 按照官方要求上传我们的插件，填写好审批表单，等审批通过就 over 了。
+  :::
+  
 
-- [ ] [0035. 将网页转为本地应用](https://tdahuyou.github.io/TNotes.notes/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README) <!-- [locale](./notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README) -->  
+- [x] [0035. 将网页转为本地应用](https://tdahuyou.github.io/TNotes.notes/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README) <!-- [locale](./notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README) -->  
   - [1. 📒 保存为本地应用的作用](https://tdahuyou.github.io/TNotes.notes/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README#1--保存为本地应用的作用)
   - [2. 📒 基本步骤说明](https://tdahuyou.github.io/TNotes.notes/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README#2--基本步骤说明)
   

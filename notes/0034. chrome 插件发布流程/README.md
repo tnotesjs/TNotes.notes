@@ -9,6 +9,14 @@
 - [6. ⚠️ Chrome 插件发布的一些注意事项](#6-️-chrome-插件发布的一些注意事项)
 <!-- endregion:toc -->
 
+::: tip 内容概述
+- 笔记中大致记录了发布 Chrome 插件的前提、基本流程、以及一些注意事项。
+- 流程简述：
+  - 1️⃣ 按照官方文档的描述写好插件，打好包。
+  - 2️⃣ 然后得有一个 chrome 账号，缴 5 美元的开发者注册费。
+  - 3️⃣ 按照官方要求上传我们的插件，填写好审批表单，等审批通过就 over 了。
+:::
+
 ## 1. 🔗 注册成为 chrome 开发者
 
 - https://chrome.google.com/webstore/devconsole/register
