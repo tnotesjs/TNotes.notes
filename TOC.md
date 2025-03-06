@@ -213,8 +213,9 @@
   - [2. 📒 基本步骤说明](https://tdahuyou.github.io/TNotes.notes/notes/0035.%20%E5%B0%86%E7%BD%91%E9%A1%B5%E8%BD%AC%E4%B8%BA%E6%9C%AC%E5%9C%B0%E5%BA%94%E7%94%A8/README#2--基本步骤说明)
   
 
-- [ ] [0036. 使用 chromium 内核的浏览器](https://tdahuyou.github.io/TNotes.notes/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README) <!-- [locale](./notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README) -->  
-  - [1. 🔗 wiki - chromium - Browsers based on Chromium](https://tdahuyou.github.io/TNotes.notes/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README#1--wiki---chromium---browsers-based-on-chromium)
+- [x] [0036. 使用 chromium 内核的浏览器](https://tdahuyou.github.io/TNotes.notes/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README) <!-- [locale](./notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README) -->  
+  - [1. 🤔 chromium 是什么？](https://tdahuyou.github.io/TNotes.notes/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README#1--chromium-是什么)
+  - [2. 📒 基于 chromium 内核的浏览器](https://tdahuyou.github.io/TNotes.notes/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README#2--基于-chromium-内核的浏览器)
   
 
 ## 5. 文本编辑器 - vscode
