@@ -1,4 +1,8 @@
 {
-  "bilibili": ["BV1sj411A7r2", "BV1sj411A7r2"],
-  "done": false
+  "bilibili": [
+    "BV1sj411A7r2",
+    "BV1sj411A7r2"
+  ],
+  "done": false,
+  "enableDiscussions": false
 }

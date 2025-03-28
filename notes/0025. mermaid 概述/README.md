@@ -116,7 +116,7 @@ mmdc -i diagram.mmd -o diagram.png
 ## 5. 💻 demos.1 - 在网页中引入 mermaid
 
 - 最终效果：
-  - ![](assets/2024-10-11-17-52-40.png)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-11-17-52-40.png)
 
 ```html
 <!DOCTYPE html>

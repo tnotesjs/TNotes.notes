@@ -7,7 +7,7 @@
 
 ## 1. 🫧 网友反馈的问题
 
-![](assets/2024-12-14-21-47-53.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-14-21-47-53.png)
 
 ## 2. 💻 解决方案
 
@@ -15,6 +15,6 @@
   - https://zh.snipaste.com/download.html
   - https://bitbucket.org/liule/snipaste/downloads/
 - 如果是 macOS 的 Intel 芯片，可以下载这个版本：v.1.16.2
-  - ![](assets/2024-12-14-21-36-23.png)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-14-21-36-23.png)
 - 如果是 macOS 的 m 系列芯片，可以下载这个版本：Snipaste-2.10.3.dmg
-  - ![](assets/2024-12-14-21-40-00.png)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-14-21-40-00.png)

@@ -48,7 +48,7 @@
 
 `ctrl + ,` 打开 VSCode 设置，搜索 `font family` 找到字体配置输入框，在输入框的最开始位置加上 `'Fira Code'`。
 
-![](assets/2024-10-12-17-19-35.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-19-35.png)
 
 重启 VSCode，如果本地已经安装了 Fira Code 字体，可以通过输入 `!=` 来测试一下，看下最终展示的效果是一个叹号加一个等号，还是展示一个不等号。如果是展示一个不等号，意味着本地已经有 Fira Code 字体了。
 
@@ -57,9 +57,9 @@
 - 按 `Win + R` 打开运行对话框。
 - 输入 `control` 并按回车键，打开控制面板。
 
-![](assets/2024-10-12-17-22-46.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-22-46.png)
 
-![](assets/2024-10-12-17-23-39.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-23-39.png)
 
 如果没有找到 Fira Code，则需要先安装。
 
@@ -69,17 +69,17 @@ https://github.com/tonsky/FiraCode/releases/tag/6.2
 
 下载 Fira_Code_v6.2.zip
 
-![](assets/2024-10-12-17-41-50.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-41-50.png)
 
 可以安装常规的 Regular 版本。
 
-![](assets/2024-10-12-17-42-27.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-42-27.png)
 
-![](assets/2024-10-12-17-42-43.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-42-43.png)
 
 检查是否安装成功。
 
-![](assets/2024-10-12-17-43-58.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-43-58.png)
 
 如果已经看到了 Fira Code，则说明已经安装成功。接下来就是重启 VSCode，查看最终效果。
 
@@ -96,7 +96,7 @@ https://github.com/tonsky/FiraCode/releases/tag/6.2
 
 最终看到的效果如下。
 
-![](assets/2024-10-12-17-47-55.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-12-17-47-55.png)
 
 ## 6. 🤖 AI - Windows 设备，如何检查 fira code 是否已经安装？
 
@@ -151,4 +151,3 @@ https://github.com/tonsky/FiraCode/releases/tag/6.2
 ```
 
 完成这些步骤后，重启 VSCode 以确保更改生效。如果问题仍然存在，请检查是否有其他设置或扩展影响了字体显示。
-

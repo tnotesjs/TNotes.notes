@@ -17,18 +17,18 @@
   - macos、windows 均支持
   - 可配置录制参数
 - LICEcap 实测可用，使用步骤也比较简单，可以在官方文档中点击 view a demo 来快速了解这玩意儿应该如何使用。
-  - ![](assets/2024-10-14-10-29-36.png)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-14-10-29-36.png)
 
 ## 2. 📒 LICEcap 的安装和使用步骤
 
 ### 2.1. 安装
 
 - 访问 [LICEcap 官方网站](https://www.cockos.com/licecap/) 下载 LICEcap。
-  - ![](assets/2024-11-30-12-00-23.png)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-11-30-12-00-23.png)
 
 ### 2.2. 使用步骤
 
-![](assets/2024-11-30-12-07-42.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-11-30-12-07-42.png)
 
 1. 打开 LICEcap。
 2. 先选择你准备将录制好的 gif 图存放在什么位置，文件名叫什么。
@@ -40,6 +40,6 @@
 
 - 下面这是在不同操作系统 macos 和 Windows 中，使用 LICEcap 简单录制的 gif 图。
 - Windows 环境：
-  - ![](assets/windows-test.gif)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/windows-test.gif)
 - macOS 环境：
-  - ![](assets/macos-test.gif)
+  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/macos-test.gif)

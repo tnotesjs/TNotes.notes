@@ -1,4 +1,7 @@
 {
-  "bilibili": ["BV1iX4y1a7Fz"],
-  "done": false
+  "bilibili": [
+    "BV1iX4y1a7Fz"
+  ],
+  "done": false,
+  "enableDiscussions": false
 }

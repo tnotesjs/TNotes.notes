@@ -21,8 +21,8 @@
   - 视频合集 TNotes > notes
 
 ::: swiper
-![](assets/2025-03-02-10-50-17.png)
-![](assets/2025-03-02-10-48-59.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-03-02-10-50-17.png)
+![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-03-02-10-48-59.png)
 :::
 
 ## 3. ⏰ 搬运 yuque 上的工具分享笔记

@@ -77,4 +77,4 @@ app.listen(PORT, () => {
 :::
 
 - 每一个 region 区域都可以折叠起来，这样，当一个模块中代码量比较大的时候，可以更好的集中精力关注核心的代码块。
-- ![](assets/2024-10-09-22-46-18.png)
+- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-09-22-46-18.png)

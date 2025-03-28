@@ -2,5 +2,6 @@
   "bilibili": [
     "BV1Cv4y1474Y"
   ],
-  "done": false
+  "done": false,
+  "enableDiscussions": false
 }

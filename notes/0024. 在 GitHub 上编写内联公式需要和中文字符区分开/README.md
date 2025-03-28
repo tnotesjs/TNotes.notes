@@ -22,13 +22,13 @@
 时间复杂度：$O(n)$
 ```
 - 时间复杂度：$O(n)$
-  - 在本地看到的结果：![](assets/2024-10-20-22-16-49.png)
-  - 在 GitHub 上看到的结果：![](assets/2024-10-20-22-19-50.png)
+  - 在本地看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-16-49.png)
+  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-19-50.png)
 
 ```md
 <!-- 加空格的写法 -->
 时间复杂度： $O(n)$
 ```
 - 时间复杂度： $O(n)$
-  - 在本地看到的结果：![](assets/2024-10-20-22-17-04.png)
-  - 在 GitHub 上看到的结果：![](assets/2024-10-20-22-19-54.png)
+  - 在本地看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-17-04.png)
+  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-19-54.png)
