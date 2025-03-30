@@ -17,7 +17,9 @@
     - [2.11. LICEcap](#211-licecap)
   - [3. 系统常用快捷方式](#3-系统常用快捷方式)
   - [4. 浏览器 - chrome](#4-浏览器---chrome)
-  - [5. 文本编辑器 - vscode](#5-文本编辑器---vscode)
+  - [5. 文本编辑器 - VSCode](#5-文本编辑器---vscode)
+    - [5.1. VSCode 配置](#51-vscode-配置)
+    - [5.2. 其他](#52-其他)
   - [6. B 站收藏](#6-b-站收藏)
   - [7. 📒 markdown](#7--markdown)
   - [8. 掌握 AI 的基本使用技巧](#8-掌握-ai-的基本使用技巧)
@@ -240,7 +242,34 @@
   - [2. 📒 基于 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md#2--基于-chromium-内核的浏览器)
   
 
-## 5. 文本编辑器 - vscode
+## 5. 文本编辑器 - VSCode
+
+### 5.1. VSCode 配置
+
+- [ ] [0037. TNotes 的 VSCode 配置项](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md) <!-- [locale](./notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md) -->  
+  - [1. ⚙️ Workbench（工作台相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#1-️-workbench工作台相关配置)
+  - [2. ⚙️ Editor（编辑器相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#2-️-editor编辑器相关配置)
+  - [3. ⚙️ Extensions（扩展相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#3-️-extensions扩展相关配置)
+  - [4. ⚙️ Terminal（终端相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#4-️-terminal终端相关配置)
+  - [5. ⚙️ Files（文件相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#5-️-files文件相关配置)
+  - [6. ⚙️ Search（搜索相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#6-️-search搜索相关配置)
+  - [7. ⚙️ Explorer（资源管理器相关配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#7-️-explorer资源管理器相关配置)
+  - [8. ⚙️ Others（其他内置配置）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#8-️-others其他内置配置)
+  - [9. ⚙️ VSCode 第三方插件配置](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README.md#9-️-vscode-第三方插件配置)
+  
+
+- [x] [0031. 配置 explorer.confirmDelete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete/README.md) <!-- [locale](./notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete/README.md) -->  
+  - [1. 📒 `explorer.confirmDelete` 配置删除资源的是否是否会出现确认提示框。](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete/README.md#1--explorerconfirmdelete-配置删除资源的是否是否会出现确认提示框)
+  
+  - 需要知道删除文件时弹出的确认提示框如何配置是否开启。
+  
+
+### 5.2. 其他
+
+- [ ] [0038. VSCode 官方文档](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0038.%20VSCode%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) <!-- [locale](./notes/0038.%20VSCode%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) -->  
+  - [1. 🔗 VSCode 官方文档链接](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0038.%20VSCode%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md#1--vscode-官方文档链接)
+  - [2. ⏰ TODO](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0038.%20VSCode%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md#2--todo)
+  
 
 - [x] [0028. region 注释](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md) <!-- [locale](./notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md) -->  
   - [1. 📒 region 注释的写法和作用](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0028.%20region%20%E6%B3%A8%E9%87%8A/README.md#1--region-注释的写法和作用)
@@ -267,11 +296,6 @@
     - [6.6. 检查 VSCode 设置](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0030.%20%E4%BF%AE%E6%94%B9%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%AD%97%E4%BD%93%E4%B8%BA%20Fira%20Code/README.md#66-检查-vscode-设置)
   - 在 Windows 上想要使用 Fira Code 字体时发现没生效，这篇文档记录了如何解决在 VSCode 中配置 Fira Code 的操作流程。
   - 该笔记以配置 Fira Code 字体为例来介绍，其它类型的字体文件也可以按照相同的步骤进行配置。
-  
-
-- [ ] [0031. 配置 Confirm Delete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20Confirm%20Delete/README.md) <!-- [locale](./notes/0031.%20%E9%85%8D%E7%BD%AE%20Confirm%20Delete/README.md) -->  
-  - [1. 📒 配置 Confirm Delete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20Confirm%20Delete/README.md#1--配置-confirm-delete)
-  - 需要知道删除文件时弹出的确认提示框如何配置是否开启。
   
 
 - [ ] [0032. lake-editor 插件](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0032.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) <!-- [locale](./notes/0032.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) -->  
@@ -377,3 +401,4 @@
 - [ ] [0018. 学会使用 AI 来解决一些基础问题](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md) -->  
   - [1. ⏰ 针对网友提过的一些问题，录制视频实际演示一下如何使用 AI 来解决这些问题，只需要一两分钟，把最基本的流程给录制清楚即可。](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md#1--针对网友提过的一些问题录制视频实际演示一下如何使用-ai-来解决这些问题只需要一两分钟把最基本的流程给录制清楚即可)
   
+

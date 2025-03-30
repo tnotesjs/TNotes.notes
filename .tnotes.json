@@ -3,6 +3,7 @@
   "repoName": "TNotes.notes",
   "keywords": ["TNotes.notes", "TNotes notes", "Tdahuyou notes"],
   "ignore_dirs": [".vscode", "0000", "assets", "node_modules"],
+  "sidebar_isCollapsed": true,
   "socialLinks": [
     {
       "ariaLabel": "Tdahuyou 语雀主页链接",
