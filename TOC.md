@@ -223,15 +223,16 @@
 ### 5.1. VSCode 配置
 
 - [ ] [0037. TNotes 的 VSCode 配置项](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README) <!-- [locale](./notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README) -->  
-  - [1. ⚙️ Workbench（工作台相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#1-️-workbench工作台相关配置)
-  - [2. ⚙️ Editor（编辑器相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#2-️-editor编辑器相关配置)
-  - [3. ⚙️ Extensions（扩展相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#3-️-extensions扩展相关配置)
-  - [4. ⚙️ Terminal（终端相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#4-️-terminal终端相关配置)
-  - [5. ⚙️ Files（文件相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#5-️-files文件相关配置)
-  - [6. ⚙️ Search（搜索相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#6-️-search搜索相关配置)
-  - [7. ⚙️ Explorer（资源管理器相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#7-️-explorer资源管理器相关配置)
-  - [8. ⚙️ Others（其他内置配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#8-️-others其他内置配置)
-  - [9. ⚙️ VSCode 第三方插件配置](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#9-️-vscode-第三方插件配置)
+  - [1. 📂 .vscode/settings.json](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#1--vscodesettingsjson)
+  - [2. ⚙️ Workbench（工作台相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#2-️-workbench工作台相关配置)
+  - [3. ⚙️ Editor（编辑器相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#3-️-editor编辑器相关配置)
+  - [4. ⚙️ Extensions（扩展相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#4-️-extensions扩展相关配置)
+  - [5. ⚙️ Terminal（终端相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#5-️-terminal终端相关配置)
+  - [6. ⚙️ Files（文件相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#6-️-files文件相关配置)
+  - [7. ⚙️ Search（搜索相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#7-️-search搜索相关配置)
+  - [8. ⚙️ Explorer（资源管理器相关配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#8-️-explorer资源管理器相关配置)
+  - [9. ⚙️ Others（其他内置配置）](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#9-️-others其他内置配置)
+  - [10. ⚙️ VSCode 第三方插件配置](https://tdahuyou.github.io/TNotes.notes/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9/README#10-️-vscode-第三方插件配置)
   
 
 - [x] [0031. 配置 explorer.confirmDelete](https://tdahuyou.github.io/TNotes.notes/notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete/README) <!-- [locale](./notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete/README) -->  
@@ -377,4 +378,3 @@
 - [ ] [0018. 学会使用 AI 来解决一些基础问题](https://tdahuyou.github.io/TNotes.notes/notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README) <!-- [locale](./notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README) -->  
   - [1. ⏰ 针对网友提过的一些问题，录制视频实际演示一下如何使用 AI 来解决这些问题，只需要一两分钟，把最基本的流程给录制清楚即可。](https://tdahuyou.github.io/TNotes.notes/notes/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README#1--针对网友提过的一些问题录制视频实际演示一下如何使用-ai-来解决这些问题只需要一两分钟把最基本的流程给录制清楚即可)
   
-
