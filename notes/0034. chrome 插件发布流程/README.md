@@ -1,12 +1,14 @@
 # [0034. chrome 插件发布流程](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0034.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B)
 
 <!-- region:toc -->
+
 - [1. 🔗 注册成为 chrome 开发者](#1--注册成为-chrome-开发者)
 - [2. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](#2--查看-chrome-官方对开发者发布的插件的一些规范要求)
 - [3. 🔗 查看 chrome 插件开发文档 - API reference](#3--查看-chrome-插件开发文档---api-reference)
 - [4. 📒 Chrome 插件发布的前提条件](#4--chrome-插件发布的前提条件)
 - [5. 📒 Chrome 插件的发布步骤](#5--chrome-插件的发布步骤)
 - [6. ⚠️ Chrome 插件发布的一些注意事项](#6-️-chrome-插件发布的一些注意事项)
+
 <!-- endregion:toc -->
 
 ::: tip 内容概述

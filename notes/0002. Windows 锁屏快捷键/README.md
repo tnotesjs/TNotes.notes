@@ -1,8 +1,10 @@
 # [0002. Windows 锁屏快捷键](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0002.%20Windows%20%E9%94%81%E5%B1%8F%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
 <!-- region:toc -->
+
 - [1. ⏰ TODO - 可以汇总一下 Windows 上常用的快捷方式，重命名该笔记。](#1--todo---可以汇总一下-windows-上常用的快捷方式重命名该笔记)
 - [2. 📒 `win L`](#2--win-l)
+
 <!-- endregion:toc -->
 
 ## 1. ⏰ TODO - 可以汇总一下 Windows 上常用的快捷方式，重命名该笔记。

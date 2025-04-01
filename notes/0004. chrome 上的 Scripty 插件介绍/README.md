@@ -1,11 +1,13 @@
 # [0004. chrome 上的 Scripty 插件介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0004.%20chrome%20%E4%B8%8A%E7%9A%84%20Scripty%20%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D)
 
 <!-- region:toc -->
+
 - [1. 🔗 Scripty 在线配置](#1--scripty-在线配置)
 - [2. 📒 使用说明](#2--使用说明)
 - [3. 🔍 插件作者 abhisheksatre](#3--插件作者-abhisheksatre)
 - [4. 🔗 常见的替代工具 Tampermonkey - 油猴插件](#4--常见的替代工具-tampermonkey---油猴插件)
 - [5. 📒 Scripty vs. Tampermonkey](#5--scripty-vs-tampermonkey)
+
 <!-- endregion:toc -->
 
 ## 1. 🔗 Scripty 在线配置

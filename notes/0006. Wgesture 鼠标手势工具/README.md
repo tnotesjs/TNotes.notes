@@ -4,10 +4,12 @@
 
 
 - [bilibili.TNotes.notes.0006.1](https://www.bilibili.com/video/BV1HM411z7Vn)
+
 - [1. 📺 bilibili 在线视频](#1--bilibili-在线视频)
 - [2. 🔗 wgestures](#2--wgestures)
 - [3. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](#3--macos-上的窗口管理工具---tilesrectangle)
 - [4. 📒 视频中涉及到的一些快捷方式](#4--视频中涉及到的一些快捷方式)
+
 <!-- endregion:toc -->
 
 ## 1. 📺 bilibili 在线视频

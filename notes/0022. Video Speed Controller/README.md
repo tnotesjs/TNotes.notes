@@ -1,11 +1,13 @@
 # [0022. Video Speed Controller](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0022.%20Video%20Speed%20Controller)
 
 <!-- region:toc -->
+
 - [1. 📒 Video Speed Controller 是什么](#1--video-speed-controller-是什么)
 - [2. 📒 Video Speed Controller 主要功能](#2--video-speed-controller-主要功能)
 - [3. 📒 Chrome 用户如何安装 Video Speed Controller](#3--chrome-用户如何安装-video-speed-controller)
 - [4. 📒 常用快捷键](#4--常用快捷键)
 - [5. 📒 测试对 B 站视频的支持](#5--测试对-b-站视频的支持)
+
 <!-- endregion:toc -->
 
 ## 1. 📒 Video Speed Controller 是什么

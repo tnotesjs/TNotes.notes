@@ -1,6 +1,7 @@
 # [0037. TNotes 的 VSCode 配置项](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0037.%20TNotes%20%E7%9A%84%20VSCode%20%E9%85%8D%E7%BD%AE%E9%A1%B9)
 
 <!-- region:toc -->
+
 - [1. 📂 .vscode/settings.json](#1--vscodesettingsjson)
 - [2. ⚙️ Workbench（工作台相关配置）](#2-️-workbench工作台相关配置)
 - [3. ⚙️ Editor（编辑器相关配置）](#3-️-editor编辑器相关配置)
@@ -11,6 +12,7 @@
 - [8. ⚙️ Explorer（资源管理器相关配置）](#8-️-explorer资源管理器相关配置)
 - [9. ⚙️ Others（其他内置配置）](#9-️-others其他内置配置)
 - [10. ⚙️ VSCode 第三方插件配置](#10-️-vscode-第三方插件配置)
+
 <!-- endregion:toc -->
 
 ## 1. 📂 .vscode/settings.json

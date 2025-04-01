@@ -2,11 +2,13 @@
 
 
 <!-- region:toc -->
+
 - [1. 🔗 github mermaid.js 源码仓库](#1--github-mermaidjs-源码仓库)
 - [2. 📒 认识 mermaid](#2--认识-mermaid)
 - [3. 📒 npm 包](#3--npm-包)
 - [4. 📒 CLI 工具](#4--cli-工具)
 - [5. 💻 demos.1 - 在网页中引入 mermaid](#5--demos1---在网页中引入-mermaid)
+
 <!-- endregion:toc -->
 - 这篇笔记对 mermaid 做了一个简单的介绍，并在 markdown 中使用 mermaid 绘制了几张图，需要知道在 markdown 中，我们是可以通过 mermaid 语法来实现文本绘图的，在必要的时候，可以直接在自己的 markdown 文档中手写图表。
   - Mermaid 是一个用 JavaScript 编写的库，允许通过简单的文本语法生成多种图表（如流程图、甘特图、类图等）。

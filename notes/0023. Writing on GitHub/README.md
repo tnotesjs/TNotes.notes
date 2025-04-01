@@ -1,10 +1,12 @@
 # [0023. Writing on GitHub](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub)
 
 <!-- region:toc -->
+
 - [1. 🔗 Writing on GitHub](#1--writing-on-github)
 - [2. 📒 github 对传统的 markdown 做了一些扩展](#2--github-对传统的-markdown-做了一些扩展)
   - [2.1. 💻 demo - Using emojis](#21--demo---using-emojis)
   - [2.2. 💻 demo - Alerts](#22--demo---alerts)
+
 <!-- endregion:toc -->
 
 ## 1. 🔗 Writing on GitHub

@@ -1,7 +1,9 @@
 # [0031. 配置 explorer.confirmDelete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete)
 
 <!-- region:toc -->
+
 - [1. 📒 `explorer.confirmDelete` 配置删除资源的是否是否会出现确认提示框。](#1--explorerconfirmdelete-配置删除资源的是否是否会出现确认提示框)
+
 <!-- endregion:toc -->
 
 - 需要知道删除文件时弹出的确认提示框如何配置是否开启。
