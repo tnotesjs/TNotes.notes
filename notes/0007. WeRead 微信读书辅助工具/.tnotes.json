@@ -1,8 +1,6 @@
 {
-  "bilibili": [
-    "BV1Ds4y1W7mq",
-    "BV1sZ421p7fW"
-  ],
-  "done": true,
-  "enableDiscussions": false
+  "bilibili": ["BV1Ds4y1W7mq", "BV1sZ421p7fW"],
+  "done": false,
+  "enableDiscussions": false,
+  "deprecated": true
 }

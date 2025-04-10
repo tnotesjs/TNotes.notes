@@ -2,7 +2,6 @@
 
 <!-- region:toc -->
 
-
 - [bilibili.TNotes.notes.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)、[bilibili.TNotes.notes.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
 
 - [1. 📒 概述](#1--概述)
@@ -29,6 +28,17 @@
 - WeRead 辅助脚本
 - scripty 脚本注入工具
 - 微信读书桌面版
+
+::: danger Deprecated
+
+- **该笔记接下来将不再维护**
+  - 主要原因是网页脚本这玩意儿太过“脆弱”，一旦微信读书页面的元素结构发生变动，便会导致脚本的一些失效，又得重新改写。
+  - 笔记相当于是归档了，留个纪念吧！其中会有一些描述不对的地方，接下来基本不会再去修正，在阅读过程中需要注意。
+- 最后一次修改于：`2025 年 4 月 10 日 21:39:18`
+  - 今天收到网友反馈，正好近期也在用微信读书看 Node.js 的相关书籍，于是就简单修了一版脚本。
+  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-10-21-39-27.png)
+
+:::
 
 ## 2. 📺 视频
 
