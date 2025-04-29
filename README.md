@@ -74,7 +74,7 @@
 
 ### 2.3. 微信读书脚本
 
-- [x] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md)
+- [ ] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md)
   - [bilibili.TNotes.notes.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)、[bilibili.TNotes.notes.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#1--概述)
   - [2. 📺 视频](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#2--视频)
