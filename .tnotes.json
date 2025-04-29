@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.notes",
-  "keywords": ["TNotes.notes"],
+  "keywords": [
+    "TNotes.notes"
+  ],
   "sidebar_isCollapsed": true,
   "ignore_dirs": [
     ".vscode",
@@ -51,5 +53,6 @@
       "link": "https://github.com/Tdahuyou/TNotes.template",
       "icon": "github"
     }
-  ]
+  ],
+  "id": "dbe717f4-ae1b-4cd9-952a-cca83b56e045"
 }
