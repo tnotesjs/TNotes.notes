@@ -1,4 +1,4 @@
-# [0036. 使用 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E4%BD%BF%E7%94%A8%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8)
+# [0036. 基于 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E5%9F%BA%E4%BA%8E%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8)
 
 <!-- region:toc -->
 
@@ -8,6 +8,7 @@
 <!-- endregion:toc -->
 
 ## 1. 🤔 chromium 是什么？
+
 - chromium 是 chrome 浏览器的内核。
 - 来自 wiki 的描述：
   - Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It is a widely-used codebase, providing the vast majority of code for Google Chrome and many other browsers, including Microsoft Edge, Samsung Internet, and Opera. The code is also used by several app frameworks.
@@ -26,8 +27,13 @@
   - Opera，学习前端的小伙伴应该听过这玩意儿。早期使用的是自己的内核，后来改为了 chrome 的内核。
 
 ::: swiper
+
 ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-17-59-25.png)
+
 ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-17-59-05.png)
+
 ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-01-07.png)
+
 ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-05-16.png)
+
 :::

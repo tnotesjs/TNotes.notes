@@ -1,55 +1,32 @@
-# [0027. Mindmap with Mermaid.js - 使用 mermaid 来绘制思维导图](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0027.%20Mindmap%20with%20Mermaid.js%20-%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
-
+# [0027. 使用 mermaid 来绘制思维导图](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0027.%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
 <!-- region:toc -->
 
-- [1. 🔗 YouTube - Mindmap with Mermaid.js](#1--youtube---mindmap-with-mermaidjs)
-- [2. 🔗 mermaid 官方博客 - MermaidChart - 从混沌到清晰：使用 Mermaid.js 探索思维导图](#2--mermaid-官方博客---mermaidchart---从混沌到清晰使用-mermaidjs-探索思维导图)
-- [3. 🔗 mermaid 官方博客 - mindmap 语法](#3--mermaid-官方博客---mindmap-语法)
-- [4. 🔗 Font Awesome 5、Material Design Icons 图标库 - 可以在 mermaid.js 绘制的思维导图中插入图标](#4--font-awesome-5material-design-icons-图标库---可以在-mermaidjs-绘制的思维导图中插入图标)
-- [5. 📒 缩进语法](#5--缩进语法)
-- [6. 📒 节点形状 - 默认形状节点](#6--节点形状---默认形状节点)
-- [7. 📒 节点形状 - 矩形节点](#7--节点形状---矩形节点)
-- [8. 📒 节点形状 - 圆角矩形节点](#8--节点形状---圆角矩形节点)
-- [9. 📒 节点形状 - 圆形节点](#9--节点形状---圆形节点)
-- [10. 📒 节点形状 - 爆炸 💥 节点](#10--节点形状---爆炸--节点)
-- [11. 📒 节点形状 - 云朵 ☁️ 节点](#11--节点形状---云朵-️-节点)
-- [12. 📒 节点形状 - 六角形节点](#12--节点形状---六角形节点)
-- [13. 📒 图标语法 - `::icon()` - 注：不好使](#13--图标语法---icon---注不好使)
-- [14. 📒 图标的替代方案 - 使用 emoji](#14--图标的替代方案---使用-emoji)
-- [15. 📒 样式语法 - `:::className` - 注：不好使](#15--样式语法---classname---注不好使)
-- [16. 📒 Markdown Strings 特性](#16--markdown-strings-特性)
-- [17. 💻 绘制思维导图测试](#17--绘制思维导图测试)
+- [1. 📝 概述](#1--概述)
+- [2. 📒 缩进语法](#2--缩进语法)
+- [3. 📒 节点形状 - 默认形状节点](#3--节点形状---默认形状节点)
+- [4. 📒 节点形状 - 矩形节点](#4--节点形状---矩形节点)
+- [5. 📒 节点形状 - 圆角矩形节点](#5--节点形状---圆角矩形节点)
+- [6. 📒 节点形状 - 圆形节点](#6--节点形状---圆形节点)
+- [7. 📒 节点形状 - 爆炸 💥 节点](#7--节点形状---爆炸--节点)
+- [8. 📒 节点形状 - 云朵 ☁️ 节点](#8--节点形状---云朵-️-节点)
+- [9. 📒 节点形状 - 六角形节点](#9--节点形状---六角形节点)
+- [10. 📒 图标语法 - `::icon()` - 注：不好使](#10--图标语法---icon---注不好使)
+- [11. 📒 图标的替代方案 - 使用 emoji](#11--图标的替代方案---使用-emoji)
+- [12. 📒 样式语法 - `:::className` - 注：不好使](#12--样式语法---classname---注不好使)
+- [13. 📒 Markdown Strings 特性](#13--markdown-strings-特性)
+- [14. 💻 绘制思维导图测试](#14--绘制思维导图测试)
+- [15. 🔗 References](#15--references)
 
 <!-- endregion:toc -->
- - 该笔记提供了 mermaid 思维导图的语法、缩进规则和节点形状，涵盖了如何通过不同的缩进表示层次关系及自定义节点形状（如矩形、圆形、云朵等）。
- - 补充了图标和样式的用法，但因集成限制，该功能效果不稳定，推荐使用 emoji 作为替代。
- - Markdown Strings 特性使得节点支持格式化文本及多行显示，进一步增强了思维导图的表现力。
 
-## 1. 🔗 YouTube - Mindmap with Mermaid.js
+## 1. 📝 概述
 
-- https://www.youtube.com/watch?v=dF9FAg73pQI
+- 该笔记提供了 mermaid 思维导图的语法、缩进规则和节点形状，涵盖了如何通过不同的缩进表示层次关系及自定义节点形状（如矩形、圆形、云朵等）。
+- 补充了图标和样式的用法，但因集成限制，该功能效果不稳定，推荐使用 emoji 作为替代。
+- Markdown Strings 特性使得节点支持格式化文本及多行显示，进一步增强了思维导图的表现力。
 
-## 2. 🔗 mermaid 官方博客 - MermaidChart - 从混沌到清晰：使用 Mermaid.js 探索思维导图
-
-- https://www.mermaidchart.com/blog/posts/from-chaos-to-clarity-exploring-mind-maps-with-mermaidjs/
-  - mermaid 官方博客 - MermaidChart
-  - From Chaos to Clarity: Exploring Mind Maps with MermaidJS
-    - 译：从混沌到清晰：使用 Mermaid.js 探索思维导图
-
-## 3. 🔗 mermaid 官方博客 - mindmap 语法
-
-- https://mermaid.js.org/syntax/mindmap.html
-  - mermaid 官方文档，这篇文档介绍的是如何使用 Mermaid 工具来创建思维导图（Mindmap）。
-
-## 4. 🔗 Font Awesome 5、Material Design Icons 图标库 - 可以在 mermaid.js 绘制的思维导图中插入图标
-
-- https://fontawesome.com/v5/search
-  - Font Awesome 5 图标库
-- https://pictogrammers.com/library/mdi/
-  - Material Design Icons 图标库
-
-## 5. 📒 缩进语法
+## 2. 📒 缩进语法
 
 - 缩进语法
 
@@ -92,6 +69,7 @@ mindmap
             B
           C
 ```
+
 ```mermaid
 mindmap
     Root
@@ -123,6 +101,7 @@ mindmap
             B
                 C
 ```
+
 ```mermaid
 mindmap
     Root
@@ -140,6 +119,7 @@ mindmap
             B
             C
 ```
+
 ```mermaid
 mindmap
     Root
@@ -147,6 +127,7 @@ mindmap
             B
             C
 ```
+
 - 如果想要表达的 —— C 是 A 的兄弟节点，那么你可以这么写：
 
 ```
@@ -156,6 +137,7 @@ mindmap
             B
         C
 ```
+
 ```mermaid
 mindmap
     Root
@@ -164,24 +146,25 @@ mindmap
         C
 ```
 
-
-## 6. 📒 节点形状 - 默认形状节点
+## 3. 📒 节点形状 - 默认形状节点
 
 ```
 mindmap
   I am the default shape
 ```
+
 ```mermaid
 mindmap
   I am the default shape
 ```
 
-## 7. 📒 节点形状 - 矩形节点
+## 4. 📒 节点形状 - 矩形节点
 
 ```
 mindmap
   id[I am a square]
 ```
+
 ```mermaid
 mindmap
   id[I am a square]
@@ -194,74 +177,77 @@ mindmap
 mindmap
   [I am a square]
 ```
+
 ```mermaid
 mindmap
   [I am a square]
 ```
 
-## 8. 📒 节点形状 - 圆角矩形节点
+## 5. 📒 节点形状 - 圆角矩形节点
 
 ```
 mindmap
   (I am a rounded square)
 ```
+
 ```mermaid
 mindmap
   (I am a rounded square)
 ```
 
-## 9. 📒 节点形状 - 圆形节点
+## 6. 📒 节点形状 - 圆形节点
 
 ```
 mindmap
   ((I am a circle))
 ```
+
 ```mermaid
 mindmap
   ((I am a circle))
 ```
 
-## 10. 📒 节点形状 - 爆炸 💥 节点
+## 7. 📒 节点形状 - 爆炸 💥 节点
 
 ```
 mindmap
   ))I am a bang((
 ```
+
 ```mermaid
 mindmap
   ))I am a bang((
 ```
 
-## 11. 📒 节点形状 - 云朵 ☁️ 节点
+## 8. 📒 节点形状 - 云朵 ☁️ 节点
 
 ```
 mindmap
   )I am a cloud(
 ```
+
 ```mermaid
 mindmap
   )I am a cloud(
 ```
 
-## 12. 📒 节点形状 - 六角形节点
+## 9. 📒 节点形状 - 六角形节点
 
 ```
 mindmap
   {{I am a hexagon}}
 ```
+
 ```mermaid
 mindmap
   {{I am a hexagon}}
 ```
 
-## 13. 📒 图标语法 - `::icon()` - 注：不好使
+## 10. 📒 图标语法 - `::icon()` - 注：不好使
 
-> As with flowcharts you can add icons to your nodes but with an updated syntax. The styling for the font based icons are added during the integration so that they are available for the web page. This is not something a diagram author can do but has to be done with the site administrator or the integrator. Once the icon fonts are in place you add them to the mind map nodes using the ::icon() syntax. You place the classes for the icon within the parenthesis like in the following example where icons for material design and Font Awesome 5 are displayed. The intention is that this approach should be used for all diagrams supporting icons. Experimental feature: This wider scope is also the reason Mindmaps are experimental as this syntax and approach could change.
-> from: mermaid 官方文档。
+> As with flowcharts you can add icons to your nodes but with an updated syntax. The styling for the font based icons are added during the integration so that they are available for the web page. This is not something a diagram author can do but has to be done with the site administrator or the integrator. Once the icon fonts are in place you add them to the mind map nodes using the ::icon() syntax. You place the classes for the icon within the parenthesis like in the following example where icons for material design and Font Awesome 5 are displayed. The intention is that this approach should be used for all diagrams supporting icons. Experimental feature: This wider scope is also the reason Mindmaps are experimental as this syntax and approach could change. from: mermaid 官方文档。
 
-> [!NOTE]
-> 不建议使用 icon。
-> 从官方的这一大段描述来看，大概就是在告诉我们，icon 这个功能，现在还不完善，存在一系列的问题。主要原因在于图标这玩意儿不好加，可能在编写文档的作者电脑上可以正常看到这些 icon（因为装了对应的图标库），但是在用户设备上，可能就无法正常显示了。而且有些图标可能可以正常展示，而有些图标或许又显示不了（这可能跟图标库的版本有关）。
+> [!NOTE] 不建议使用 icon。从官方的这一大段描述来看，大概就是在告诉我们，icon 这个功能，现在还不完善，存在一系列的问题。主要原因在于图标这玩意儿不好加，可能在编写文档的作者电脑上可以正常看到这些 icon（因为装了对应的图标库），但是在用户设备上，可能就无法正常显示了。而且有些图标可能可以正常展示，而有些图标或许又显示不了（这可能跟图标库的版本有关）。
 
 - 图标字体的集成
   - 集成过程：图标字体的样式需要在网页集成过程中添加，以便在网页上可用。
@@ -285,6 +271,7 @@ mindmap
     Another node::icon(mdi mdi-home)
     Child node
 ```
+
 ```mermaid
 mindmap
   root((中心主题))
@@ -292,6 +279,7 @@ mindmap
     Another node::icon(mdi mdi-home)
     Child node
 ```
+
 - **问：如果使用图标的话，可以正常渲染出来吗？**
   - 测试结果如下：
     - 下面的截图来自 mermaid 官方的渲染结果：
@@ -303,6 +291,7 @@ mindmap
     - 下面的截图来自本地 VSCode 中的 markdown preview enhanced 插件的渲染结果：
       - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-10-45-27.png)
       - 成功渲染了一个图标。
+
 ```
 mindmap
   Root
@@ -311,6 +300,7 @@ mindmap
     B(B)
     ::icon(mdi mdi-skull-outline)
 ```
+
 ```mermaid
 mindmap
   Root
@@ -320,20 +310,21 @@ mindmap
     ::icon(mdi mdi-skull-outline)
 ```
 
-## 14. 📒 图标的替代方案 - 使用 emoji
+## 11. 📒 图标的替代方案 - 使用 emoji
 
 ```
 mindmap
   Root
     房子 emoji 👉 🏠
 ```
+
 ```mermaid
 mindmap
   Root
     房子 emoji 👉 🏠
 ```
 
-## 15. 📒 样式语法 - `:::className` - 注：不好使
+## 12. 📒 样式语法 - `:::className` - 注：不好使
 
 - 和 icon 一样，需要站点集成，才能正常渲染。
 
@@ -345,6 +336,7 @@ mindmap
         B(B)
         C
 ```
+
 ```mermaid
 mindmap
     Root
@@ -354,7 +346,7 @@ mindmap
         C
 ```
 
-## 16. 📒 Markdown Strings 特性
+## 13. 📒 Markdown Strings 特性
 
 - “Markdown Strings”特性，该特性增强了思维导图的功能，支持更多的文本格式选项，并且能够自动换行。
 - Markdown Strings 特性
@@ -362,6 +354,7 @@ mindmap
   - 自动换行：自动处理标签内的文本换行，当文本过长时会自动换行。
   - 多行文本：允许在标签内直接使用换行符来创建多行文本。
 - 代码示例：
+
 ```
 mindmap
     id1["`**Root** with
@@ -370,6 +363,7 @@ Unicode works too: 🤓`"]
       id2["`The dog in **the** hog... a *very long text* that wraps to a new line`"]
       id3[Regular labels still works]
 ```
+
 ```mermaid
 mindmap
     id1["`**Root** with
@@ -378,6 +372,7 @@ Unicode works too: 🤓`"]
       id2["`The dog in **the** hog... a *very long text* that wraps to a new line`"]
       id3[Regular labels still works]
 ```
+
 - 解释
   - id1：
     - `**Root**`：加粗显示 "Root"。
@@ -391,7 +386,7 @@ Unicode works too: 🤓`"]
     - 普通标签：传统的标签仍然有效，不包含任何 Markdown 格式。
   - 注：上述 id1、id2、id3 仅仅是为了方便笔记记录，方便标注说明。即便删除 id1、id2、id3 它们，渲染结果依旧保持不变。
 
-## 17. 💻 绘制思维导图测试
+## 14. 💻 绘制思维导图测试
 
 - 官方示例 1
 
@@ -474,3 +469,24 @@ mindmap
       Pen and paper
       Mermaid
 ```
+
+## 15. 🔗 References
+
+::: details
+
+- https://www.youtube.com/watch?v=dF9FAg73pQI
+  - YouTube - Mindmap with Mermaid.js
+- https://www.mermaidchart.com/blog/posts/from-chaos-to-clarity-exploring-mind-maps-with-mermaidjs/
+  - mermaid 官方博客 - MermaidChart
+  - From Chaos to Clarity: Exploring Mind Maps with MermaidJS
+    - 译：从混沌到清晰：使用 Mermaid.js 探索思维导图
+- https://mermaid.js.org/syntax/mindmap.html
+  - mermaid 官方文档，这篇文档介绍的是如何使用 Mermaid 工具来创建思维导图（Mindmap）。
+  - mindmap 语法
+- Font Awesome 5、Material Design Icons 图标库 - 可以在 mermaid.js 绘制的思维导图中插入图标
+  - https://fontawesome.com/v5/search
+    - Font Awesome 5 图标库
+  - https://pictogrammers.com/library/mdi/
+    - Material Design Icons 图标库
+
+:::
