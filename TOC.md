@@ -80,10 +80,18 @@
 
 ### 2.5. TypingClub
 
-- [ ] [0008. TypingClub 打字练习工具](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README)
+- [x] [0008. TypingClub 打字练习工具](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README)
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0008.1](https://www.bilibili.com/video/BV1Cv4y1474Y)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#1--搬运-yuque-上的早期文章)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#1--概述)
+  - [2. 📒 TypingClub 简介](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#2--typingclub-简介)
+  - [3. 📒 打字指法教程](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#3--打字指法教程)
+  - [4. 📒 TypeRacer ｜ 一个和 TypingClub 类似的站点（无需 🪜）](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#4--typeracer--一个和-typingclub-类似的站点无需-)
+  - [5. 💻 使用脚本获取 TypingClub 的 lesson 文本](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#5--使用脚本获取-typingclub-的-lesson-文本)
+  - [6. 🤔 Q&A](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#6--qa)
+    - [6.1. 🤔 问：wpm、kpm 单位是？](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#61--问wpmkpm-单位是)
+    - [6.2. 🤔 问：Typeracer 是什么？](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#62--问typeracer-是什么)
+  - [7. 🔗 References](https://tdahuyou.github.io/TNotes.notes/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README#7--references)
 
 ### 2.6. Qwerty Learner
 
