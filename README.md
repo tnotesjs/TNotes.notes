@@ -158,7 +158,19 @@
 - [ ] [0011. TTSmaker 文本转语音在线工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md)
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0011.1](https://www.bilibili.com/video/BV1iX4y1a7Fz)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+    - [bilibili.TNotes.notes.0011.2](https://www.bilibili.com/video/BV18H4y1H7GN)
+    - [bilibili.TNotes.notes.0011.3](https://www.bilibili.com/video/BV141421U7tA)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#1--概述)
+  - [2. 📺 视频](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#2--视频)
+  - [3. 📒 TTSmaker 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#3--ttsmaker-简介)
+  - [4. 📒 tts-vue 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#4--tts-vue-简介)
+  - [5. 📒 KanTTS 克隆声音](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#5--kantts-克隆声音)
+  - [6. 📒 vocalremover 音频在线合成工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#6--vocalremover-音频在线合成工具)
+  - [7. 🤔 Q&A](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#7--qa)
+    - [7.1. 🤔 问：在语雀中插入音频资源，可以在线播放吗？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#71--问在语雀中插入音频资源可以在线播放吗)
+    - [7.2. 🤔 问：TTSmaker 能不能读小说？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#72--问ttsmaker-能不能读小说)
+    - [7.3. 🤔 问：py 的 egg 语音模块？（知识盲区）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#73--问py-的-egg-语音模块知识盲区)
+    - [7.4. 🤔 问：录制使用 AI 快速创作视频的教程，初衷是什么？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#74--问录制使用-ai-快速创作视频的教程初衷是什么)
 
 ### 2.8. Deskpins windows
 
