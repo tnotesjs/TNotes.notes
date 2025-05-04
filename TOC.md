@@ -150,6 +150,12 @@
 
 - [ ] [0012. DeskPins windows 窗口置顶工具](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#1--概述)
+  - [2. 📒 DeskPins 简介](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#2--deskpins-简介)
+  - [3. 📂 DeskPins 安装包](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#3--deskpins-安装包)
+  - [4. 💻 DeskPins 如何使用？](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#4--deskpins-如何使用)
+  - [5. 💻 DeskPins 常用快捷键](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#5--deskpins-常用快捷键)
+  - [6. 🔍 查看 DeskPins 说明书](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#6--查看-deskpins-说明书)
+  - [7. 🔍 了解作者 - Elias Fotinis](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#7--了解作者---elias-fotinis)
 
 ### 2.9. 语雀收藏助手
 
