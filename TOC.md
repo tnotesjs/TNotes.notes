@@ -129,7 +129,7 @@
 
 ### 2.7. TTSmaker
 
-- [ ] [0011. TTSmaker 文本转语音在线工具](https://tdahuyou.github.io/TNotes.notes/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README)
+- [x] [0011. TTSmaker 文本转语音在线工具](https://tdahuyou.github.io/TNotes.notes/notes/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README)
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0011.1](https://www.bilibili.com/video/BV1iX4y1a7Fz)
     - [bilibili.TNotes.notes.0011.2](https://www.bilibili.com/video/BV18H4y1H7GN)
@@ -149,7 +149,7 @@
 ### 2.8. Deskpins windows
 
 - [ ] [0012. DeskPins windows 窗口置顶工具](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#1--搬运-yuque-上的早期文章)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README#1--概述)
 
 ### 2.9. 语雀收藏助手
 
