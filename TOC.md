@@ -73,11 +73,28 @@
 
 ### 2.4. SimpRead
 
-- [ ] [0010. SimpRead 文章收集工具](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README)
+- [x] [0010. SimpRead 文章收集工具](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README)
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0010.1](https://www.bilibili.com/video/BV19v4y1h7mY)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#1--概述)
-  - [2. 🔗 References](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#2--references)
+  - [2. 📺 TNotes.bilibili](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#2--tnotesbilibili)
+  - [3. 📒 文章收集新策略](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#3--文章收集新策略)
+  - [4. 💻 安装 SimpRead](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#4--安装-simpread)
+  - [5. 📒 文章搬运流程](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#5--文章搬运流程)
+  - [6. 📒 重器轻用的观念](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#6--重器轻用的观念)
+  - [7. 📒 SimpRead vs. cubox](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#7--simpread-vs-cubox)
+  - [8. 💻 让收藏更便捷的脚本](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#8--让收藏更便捷的脚本)
+  - [9. 🤔 Q&A](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#9--qa)
+    - [9.1. 🤔 问：SimpRead 保存到语雀怎么授权？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#91--问simpread-保存到语雀怎么授权)
+    - [9.2. 🤔 问：SimpRead 都有哪些槽点？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#92--问simpread-都有哪些槽点)
+    - [9.3. 🤔 问：cubox 是什么？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#93--问cubox-是什么)
+    - [9.4. 🤔 问：如何使用 SimpRead 搬运语雀上的其他人的文章？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#94--问如何使用-simpread-搬运语雀上的其他人的文章)
+    - [9.5. 🤔 问：简悦对 pdf 的支持如何？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#95--问简悦对-pdf-的支持如何)
+    - [9.6. 🤔 问：如何让简悦更准确地识别文章？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#96--问如何让简悦更准确地识别文章)
+    - [9.7. 🤔 问：授权需要登录高级账户吗？](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#97--问授权需要登录高级账户吗)
+  - [10. ❤️‍🩹 被吐槽](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#10-️-被吐槽)
+  - [11. 🤦‍♂️ 一些反思](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#11-️-一些反思)
+  - [12. 🔗 References](https://tdahuyou.github.io/TNotes.notes/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README#12--references)
 
 ### 2.5. TypingClub
 

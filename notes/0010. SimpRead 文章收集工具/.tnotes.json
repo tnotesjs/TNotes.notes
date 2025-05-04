@@ -1,6 +1,8 @@
 {
-  "bilibili": ["BV19v4y1h7mY"],
-  "done": false,
-  "enableDiscussions": false,
+  "bilibili": [
+    "BV19v4y1h7mY"
+  ],
+  "done": true,
+  "enableDiscussions": true,
   "id": "d3d18717-07be-49bd-9ee2-b25a78e49285"
 }
