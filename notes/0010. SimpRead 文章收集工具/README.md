@@ -22,7 +22,7 @@
       - 如果文章是外网的，那么如果是用一些国内的 AI 模型的话，你直接把文章的链接丢给它，它可能是读不到的。这时候就可以先利用 SimpRead 将文章内容复制给 md 形式，再丢给 AI 解析。
       - 更好地与 TNotes 结合，个人现在搭建的笔记知识库 TNotes 用的也是基于 md 来写的。
 
-<BilibiliOutsidePlayer id="BV1sj411A7r2" />
+<BilibiliOutsidePlayer id="BV19v4y1h7mY" />
 
 ## 2. 🔗 References
 
