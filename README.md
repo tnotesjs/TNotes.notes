@@ -103,6 +103,7 @@
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0010.1](https://www.bilibili.com/video/BV19v4y1h7mY)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#1--概述)
+  - [2. 🔗 References](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#2--references)
 
 ### 2.5. TypingClub
 
@@ -121,11 +122,19 @@
 
 ### 2.6. Qwerty Learner
 
-- [ ] [0009. Qwerty Learner 打字练习 + 学习外语工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md)
+- [x] [0009. Qwerty Learner 打字练习 + 学习外语工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md)
   - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
     - [bilibili.TNotes.notes.0009.1](https://www.bilibili.com/video/BV1sj411A7r2)
-    - [bilibili.TNotes.notes.0009.2](https://www.bilibili.com/video/BV1sj411A7r2)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+    - [bilibili.TNotes.notes.0009.2](https://www.bilibili.com/video/BV1w24y1p79A)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#1--概述)
+  - [2. 🔗 Qwerty Learner 在线访问链接](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#2--qwerty-learner-在线访问链接)
+  - [3. 📺 TNotes.bilibili](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#3--tnotesbilibili)
+  - [4. 💻 提取单词数据的脚本（旧版）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#4--提取单词数据的脚本旧版)
+  - [5. 🤔 Q&A](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#5--qa)
+    - [5.1. 🤔 问：如何导入新的词典？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#51--问如何导入新的词典)
+    - [5.2. 🤔 问：如何下载 Qwerty Learner 桌面版？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#52--问如何下载-qwerty-learner-桌面版)
+    - [5.3. 🤔 问：如何给 Qwerty Learner 项目提建议 or 问题？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#53--问如何给-qwerty-learner-项目提建议-or-问题)
+  - [6. 🔗 References](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#6--references)
 
 ### 2.7. TTSmaker
 
