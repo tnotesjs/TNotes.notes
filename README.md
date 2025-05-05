@@ -259,6 +259,12 @@
   - [2. 💻 简化语雀 Web 端编辑窗口的脚本](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#2--简化语雀-web-端编辑窗口的脚本)
   - [3. 💻 小记全屏切换](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#3--小记全屏切换)
   - [4. 💻 code block 批操作（❌ Deprecated）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#4--code-block-批操作-deprecated)
+- [x] [0018. 3ts](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#1--概述)
+  - [2. 📺 TNotes.yuque](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#2--tnotesyuque)
+  - [3. 📒 3ts 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#3--3ts-简介)
+  - [4. 📝 日志 - chrome 应用商店注册成为开发者需要付费 5 美元](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#4--日志---chrome-应用商店注册成为开发者需要付费-5-美元)
+  - [5. 💻 3ts 实现源码](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#5--3ts-实现源码)
 
 ## 4. 文本编辑器 - VSCode
 
@@ -386,9 +392,3 @@
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20xxx/README.md#1--notes_title)
 - [ ] [0026. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20xxx/README.md#1--notes_title)
-- [x] [0018. 3ts](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md)
-  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#1--概述)
-  - [2. 📺 TNotes.yuque](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#2--tnotesyuque)
-  - [3. 📒 3ts 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#3--3ts-简介)
-  - [4. 📝 日志 - chrome 应用商店注册成为开发者需要付费 5 美元](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#4--日志---chrome-应用商店注册成为开发者需要付费-5-美元)
-  - [5. 💻 3ts 实现源码](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%203ts/README.md#5--3ts-实现源码)
