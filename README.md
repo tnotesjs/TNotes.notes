@@ -13,9 +13,9 @@
     - [2.6. Qwerty Learner](#26-qwerty-learner)
     - [2.7. TTSmaker](#27-ttsmaker)
     - [2.8. Deskpins windows](#28-deskpins-windows)
-    - [2.9. 语雀收藏助手](#29-语雀收藏助手)
-    - [2.10. screen brush](#210-screen-brush)
-    - [2.11. LICEcap](#211-licecap)
+    - [2.9. LICEcap](#29-licecap)
+    - [2.10. 语雀收藏助手](#210-语雀收藏助手)
+    - [2.11. screen brush](#211-screen-brush)
   - [3. 浏览器 - chrome](#3-浏览器---chrome)
   - [4. 文本编辑器 - VSCode](#4-文本编辑器---vscode)
     - [4.1. VSCode 配置](#41-vscode-配置)
@@ -174,7 +174,7 @@
 
 ### 2.8. Deskpins windows
 
-- [ ] [0012. DeskPins windows 窗口置顶工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md)
+- [x] [0012. DeskPins windows 窗口置顶工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#1--概述)
   - [2. 📒 DeskPins 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#2--deskpins-简介)
   - [3. 📂 DeskPins 安装包](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#3--deskpins-安装包)
@@ -183,17 +183,7 @@
   - [6. 🔍 查看 DeskPins 说明书](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#6--查看-deskpins-说明书)
   - [7. 🔍 了解作者 - Elias Fotinis](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#7--了解作者---elias-fotinis)
 
-### 2.9. 语雀收藏助手
-
-- [ ] [0013. 语雀收藏助手](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md#1--搬运-yuque-上的早期文章)
-
-### 2.10. screen brush
-
-- [ ] [0014. screen brush macos 屏幕画笔工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
-
-### 2.11. LICEcap
+### 2.9. LICEcap
 
 - [x] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#1--概述)
@@ -203,6 +193,36 @@
     - [3.2. 使用步骤](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#32-使用步骤)
   - [4. 💻 使用 LICEcap 截 gif 图的效果展示](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#4--使用-licecap-截-gif-图的效果展示)
   - [5. 🔗 References](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#5--references)
+
+### 2.10. 语雀收藏助手
+
+- [ ] [0013. 语雀收藏助手](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md)
+  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md#1--搬运-yuque-上的早期文章)
+
+### 2.11. screen brush
+
+- [x] [0014. screen brush macos 屏幕画笔工具](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#1--概述)
+  - [2. 📒 ScreenBrush 简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#2--screenbrush-简介)
+  - [3. 📺 Bilibili - 什么 你没用过 Mac 神器 屏幕标注工具 ScreenBrush? 教程 + 讲解, 老师好助手](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#3--bilibili---什么-你没用过-mac-神器-屏幕标注工具-screenbrush-教程--讲解-老师好助手)
+  - [4. 📂 快捷键大全 - ScreenBrush Shortcut List.pdf](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#4--快捷键大全---screenbrush-shortcut-listpdf)
+  - [5. 📒 参考键盘布局](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#5--参考键盘布局)
+  - [6. 💻 demos](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#6--demos)
+    - [6.1. 💻 进入绘图模式，但是不显示工具栏](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#61--进入绘图模式但是不显示工具栏)
+    - [6.2. 💻 使用曲线画笔](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#62--使用曲线画笔)
+    - [6.3. 💻 使用直线画笔](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#63--使用直线画笔)
+    - [6.4. 💻 使用矩形画笔、椭圆形画笔](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#64--使用矩形画笔椭圆形画笔)
+    - [6.5. 💻 使用文本输入框](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#65--使用文本输入框)
+    - [6.6. 💻 撤销](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#66--撤销)
+    - [6.7. 💻 局部高亮](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#67--局部高亮)
+    - [6.8. 💻 局部高亮缩放](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#68--局部高亮缩放)
+    - [6.9. 💻 清屏](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#69--清屏)
+    - [6.10. 💻 拖动指定笔记](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#610--拖动指定笔记)
+    - [6.11. 💻 删除指定笔记](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#611--删除指定笔记)
+    - [6.12. 💻 ……](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#612--)
+  - [7. 🤔 Q&A](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#7--qa)
+    - [7.1. 🤔 问：是否需要收费？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#71--问是否需要收费)
+    - [7.2. 🤔 问：写这篇笔记的初衷是？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#72--问写这篇笔记的初衷是)
 
 ## 3. 浏览器 - chrome
 
@@ -234,6 +254,11 @@
 - [x] [0036. 基于 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E5%9F%BA%E4%BA%8E%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md)
   - [1. 🤔 chromium 是什么？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E5%9F%BA%E4%BA%8E%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md#1--chromium-是什么)
   - [2. 📒 基于 chromium 内核的浏览器](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0036.%20%E5%9F%BA%E4%BA%8E%20chromium%20%E5%86%85%E6%A0%B8%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/README.md#2--基于-chromium-内核的浏览器)
+- [x] [0039. 语雀网页脚本](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#1--概述)
+  - [2. 💻 简化语雀 Web 端编辑窗口的脚本](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#2--简化语雀-web-端编辑窗口的脚本)
+  - [3. 💻 小记全屏切换](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#3--小记全屏切换)
+  - [4. 💻 code block 批操作（❌ Deprecated）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20%E8%AF%AD%E9%9B%80%E7%BD%91%E9%A1%B5%E8%84%9A%E6%9C%AC/README.md#4--code-block-批操作-deprecated)
 
 ## 4. 文本编辑器 - VSCode
 
@@ -337,8 +362,6 @@
 
 ## 8. ⏰ empty
 
-- [ ] [0039. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0039.%20xxx/README.md#1--notes_title)
 - [ ] [0040. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20xxx/README.md#1--notes_title)
 - [ ] [0041. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20xxx/README.md)
@@ -363,3 +386,5 @@
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20xxx/README.md#1--notes_title)
 - [ ] [0026. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20xxx/README.md#1--notes_title)
+- [ ] [0018. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%20xxx/README.md)
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0018.%20xxx/README.md#1--notes_title)
