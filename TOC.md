@@ -371,8 +371,8 @@
 
 ## 9. ⏰ empty
 
-- [ ] [0026. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README#1--notes_title)
+- [ ] [0026. project graph](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20project%20graph/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20project%20graph/README#1--概述)
 - [ ] [0046. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0046.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0046.%20xxx/README#1--notes_title)
 - [ ] [0047. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0047.%20xxx/README)
