@@ -197,6 +197,8 @@
   - [7. 🤔 Q&A](https://tdahuyou.github.io/TNotes.notes/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README#7--qa)
     - [7.1. 🤔 问：是否需要收费？](https://tdahuyou.github.io/TNotes.notes/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README#71--问是否需要收费)
     - [7.2. 🤔 问：写这篇笔记的初衷是？](https://tdahuyou.github.io/TNotes.notes/notes/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README#72--问写这篇笔记的初衷是)
+- [ ] [0042. twinkletray](https://tdahuyou.github.io/TNotes.notes/notes/0042.%20twinkletray/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0042.%20twinkletray/README#1--概述)
 
 ## 3. 浏览器 - chrome
 
@@ -340,20 +342,37 @@
   - [14. 💻 绘制思维导图测试](https://tdahuyou.github.io/TNotes.notes/notes/0027.%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/README#14--绘制思维导图测试)
   - [15. 🔗 References](https://tdahuyou.github.io/TNotes.notes/notes/0027.%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/README#15--references)
 
-## 8. ⏰ empty
+## 8. 百科
 
-- [ ] [0040. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0040.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0040.%20xxx/README#1--notes_title)
-- [ ] [0041. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0041.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0041.%20xxx/README#1--notes_title)
-- [ ] [0042. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0042.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0042.%20xxx/README#1--notes_title)
-- [ ] [0043. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0043.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0043.%20xxx/README#1--notes_title)
-- [ ] [0044. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20xxx/README#1--notes_title)
-- [ ] [0045. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20xxx/README#1--notes_title)
+- [ ] [0040. 猫咪一天就活动 4h 吗？](https://tdahuyou.github.io/TNotes.notes/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%B4%BB%E5%8A%A8%204h%20%E5%90%97%EF%BC%9F/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%B4%BB%E5%8A%A8%204h%20%E5%90%97%EF%BC%9F/README#1--概述)
+- [ ] [0041. 拔罐后能洗澡吗？](https://tdahuyou.github.io/TNotes.notes/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README#1--概述)
+  - [2. 🤖 AI 回复](https://tdahuyou.github.io/TNotes.notes/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README#2--ai-回复)
+- [ ] [0043. 蜡笔小新女明星录](https://tdahuyou.github.io/TNotes.notes/notes/0043.%20%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E5%A5%B3%E6%98%8E%E6%98%9F%E5%BD%95/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0043.%20%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E5%A5%B3%E6%98%8E%E6%98%9F%E5%BD%95/README#1--概述)
+- [ ] [0044. 烤红薯，吃不完，放冰箱，能放多久呢？](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#1--概述)
+  - [2. 🤖 AI 回复](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#2--ai-回复)
+    - [2.1. 冷藏保存的时间](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#21-冷藏保存的时间)
+    - [2.2. 如何正确冷藏烤红薯](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#22-如何正确冷藏烤红薯)
+    - [2.3. 冷冻保存的可能性](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#23-冷冻保存的可能性)
+    - [2.4. 注意事项](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#24-注意事项)
+    - [2.5. 总结](https://tdahuyou.github.io/TNotes.notes/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README#25-总结)
+- [ ] [0045. 路由器和光猫的功能与区别](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#1--概述)
+  - [2. 🤖 AI 回复](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#2--ai-回复)
+    - [2.1. 光猫（Optical Network Unit, ONU）](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#21-光猫optical-network-unit-onu)
+    - [2.2. 路由器（Router）](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#22-路由器router)
+    - [2.3. 光猫与路由器的区别](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#23-光猫与路由器的区别)
+    - [2.4. 光猫与路由器的组合使用](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#24-光猫与路由器的组合使用)
+    - [2.5. 如何选择合适的设备？](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#25-如何选择合适的设备)
+    - [2.6. 总结](https://tdahuyou.github.io/TNotes.notes/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README#26-总结)
+
+## 9. ⏰ empty
+
+- [ ] [0026. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README#1--notes_title)
 - [ ] [0046. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0046.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0046.%20xxx/README#1--notes_title)
 - [ ] [0047. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0047.%20xxx/README)
@@ -364,5 +383,5 @@
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0049.%20xxx/README#1--notes_title)
 - [ ] [0050. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0050.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0050.%20xxx/README#1--notes_title)
-- [ ] [0026. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.notes/notes/0026.%20xxx/README#1--notes_title)
+- [ ] [0051. xxx](https://tdahuyou.github.io/TNotes.notes/notes/0051.%20xxx/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.notes/notes/0051.%20xxx/README#1--概述)
