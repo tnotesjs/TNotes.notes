@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.notes",
-  "keywords": ["TNotes.notes"],
+  "keywords": [
+    "TNotes.notes"
+  ],
   "sidebar_isCollapsed": true,
   "ignore_dirs": [
     ".vscode",
@@ -19,7 +21,7 @@
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--pc.svg"
     },
     "title": "notes",
-    "completed_notes_count": 37,
+    "completed_notes_count": 32,
     "details": "早期在 B 站坐的工具分享系列内容，或者存储的一些没有明确分组的笔记的集合。",
     "link": "https://tdahuyou.github.io/TNotes.notes/"
   },
