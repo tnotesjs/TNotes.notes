@@ -1,14 +1,17 @@
-# [0031. 配置 explorer.confirmDelete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20%E9%85%8D%E7%BD%AE%20explorer.confirmDelete)
+# [0031. explorer.confirmDelete](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0031.%20explorer.confirmDelete)
 
 <!-- region:toc -->
 
-- [1. 📒 `explorer.confirmDelete` 配置删除资源的是否是否会出现确认提示框。](#1--explorerconfirmdelete-配置删除资源的是否是否会出现确认提示框)
+- [1. 📝 概述](#1--概述)
+- [2. 📒 `explorer.confirmDelete` 配置简介](#2--explorerconfirmdelete-配置简介)
 
 <!-- endregion:toc -->
 
-- 需要知道删除文件时弹出的确认提示框如何配置是否开启。
+## 1. 📝 概述
 
-## 1. 📒 `explorer.confirmDelete` 配置删除资源的是否是否会出现确认提示框。
+- 介绍 VS Code 的一个配置 `confirmDelete` 的作用及其使用场景。
+
+## 2. 📒 `explorer.confirmDelete` 配置简介
 
 - `explorer.confirmDelete` 配置字段的默认值为 `true`，意味着在删除资源的时候，会弹出确认提示框：
   - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-27-22-31-09.png)
@@ -33,9 +36,9 @@
     - 编辑器重开，会导致撤销操作失效。
   - 这里写这么多，主要是个人在使用时遇到的问题，不小心删了比较重要的内容，找回的过程很费精力，还不如一开始就不关闭这个确认提示框嘞。
 - 【使用场景】
-  - 需要删除的模块比较分散，数量比较多，想要在删除的时候不要每次都弹出一个确认框。
+  - **需要删除的模块比较分散，数量比较多，想要在删除的时候不要每次都弹出一个确认框。**
   - ⚠️ 删完之后记得恢复确认提示。
-- 🤔 如果还想恢复确认提示的话，应该怎么做？
+- **🤔 如果还想恢复确认提示的话，应该怎么做？**
   - 配置界面：
     - 这东西是可以支持配置的，打开【设置】，搜索 delete，找到 Confirm Delete 选项，勾选上确认提示框即可。
     - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-27-22-31-12.png)
