@@ -23,9 +23,10 @@
   - [18. 猫](#18-猫)
   - [19. 蜡笔小新](#19-蜡笔小新)
   - [20. 百科](#20-百科)
-  - [21. ⏰ project graph](#21--project-graph)
-  - [22. ⏰ 语雀收藏助手](#22--语雀收藏助手)
-  - [23. ⏰ pending](#23--pending)
+  - [21. 语雀](#21-语雀)
+  - [22. AI](#22-ai)
+  - [23. ⏰ project graph](#23--project-graph)
+  - [24. ⏰ pending](#24--pending)
 
 <!-- endregion:toc -->
 
@@ -371,7 +372,7 @@
 
 - [x] [0040. 猫咪一天的活动时间](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#1--概述)
-  - [2. 🤖 AI 回复 - 猫咪一天的活动时间](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#2--ai-回复---猫咪一天的活动时间)
+  - [2. 🤖 猫咪一天的活动时间](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#2--猫咪一天的活动时间)
     - [2.1. 🌙 深夜至凌晨（0:00 - 5:00）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#21--深夜至凌晨000---500)
     - [2.2. 🌅 清晨（5:00 - 7:00）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#22--清晨500---700)
     - [2.3. ☀️ 上午（7:00 - 11:00）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#23-️-上午700---1100)
@@ -383,7 +384,7 @@
   - [4. 💡 小贴士：](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4/README.md#4--小贴士)
 - [x] [0047. 金吉拉](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#1--概述)
-  - [2. 🤖 AI 对金吉拉的介绍](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#2--ai-对金吉拉的介绍)
+  - [2. 🤖 介绍一下“金吉拉”](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#2--介绍一下金吉拉)
     - [2.1. 🐱 金吉拉猫简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#21--金吉拉猫简介)
     - [2.2. 🌟 外貌特征](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#22--外貌特征)
     - [2.3. 🧠 性格与行为特点](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89/README.md#23--性格与行为特点)
@@ -407,10 +408,10 @@
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0021.%20%E4%B8%8B%E8%BD%BD%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E8%BF%98%E8%A6%81%E4%BB%98%E9%92%B1%EF%BC%9F%E8%AE%BA%E5%9B%BD%E5%86%85%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%B9%BF%E5%91%8A%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B8%8D%E8%A6%81%E8%84%B8%EF%BC%9F/README.md#1--概述)
 - [x] [0041. 拔罐后能洗澡吗？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README.md#1--概述)
-  - [2. 🤖 AI - 拔罐后能洗澡吗？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README.md#2--ai---拔罐后能洗澡吗)
+  - [2. 🤖 拔罐后能洗澡吗？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F/README.md#2--拔罐后能洗澡吗)
 - [x] [0044. 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#1--概述)
-  - [2. 🤖 AI - 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#2--ai---烤红薯吃不完放冰箱能放多久呢)
+  - [2. 🤖 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#2--烤红薯吃不完放冰箱能放多久呢)
     - [2.1. 冷藏保存的时间](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#21-冷藏保存的时间)
     - [2.2. 如何正确冷藏烤红薯](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#22-如何正确冷藏烤红薯)
     - [2.3. 冷冻保存的可能性](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#23-冷冻保存的可能性)
@@ -418,7 +419,7 @@
     - [2.5. 总结](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md#25-总结)
 - [x] [0045. 路由器和光猫的功能与区别](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#1--概述)
-  - [2. 🤖 AI - 路由器和光猫的功能与区别](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#2--ai---路由器和光猫的功能与区别)
+  - [2. 🤖 路由器和光猫的功能与区别](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#2--路由器和光猫的功能与区别)
     - [2.1. 光猫（Optical Network Unit, ONU）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#21-光猫optical-network-unit-onu)
     - [2.2. 路由器（Router）](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#22-路由器router)
     - [2.3. 光猫与路由器的区别](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#23-光猫与路由器的区别)
@@ -426,20 +427,27 @@
     - [2.5. 如何选择合适的设备？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#25-如何选择合适的设备)
     - [2.6. 总结](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md#26-总结)
 
-## 21. ⏰ project graph
+## 21. 语雀
+
+- [x] [0013. 语雀浏览器插件](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/README.md)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/README.md#1--概述)
+  - [2. 💻 使用语雀浏览器插件来搬运在线文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/README.md#2--使用语雀浏览器插件来搬运在线文章)
+
+## 22. AI
+
+- [x] [0048. 体验 claude 4](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md)
+  - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+    - [bilibili.TNotes.notes.0048.1](https://www.bilibili.com/video/BV1XwjozKEcb)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md#1--概述)
+  - [2. 🤖 AI - 请给我一个连连看的 Web 程序](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md#2--ai---请给我一个连连看的-web-程序)
+
+## 23. ⏰ project graph
 
 - [ ] [0026. project graph](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20project%20graph/README.md)
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20project%20graph/README.md#1--概述)
 
-## 22. ⏰ 语雀收藏助手
+## 24. ⏰ pending
 
-- [ ] [0013. 语雀收藏助手](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md)
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md#1--搬运-yuque-上的早期文章)
-
-## 23. ⏰ pending
-
-- [ ] [0048. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20xxx/README.md#1--notes_title)
 - [ ] [0049. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20xxx/README.md#1--notes_title)
 - [ ] [0050. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20xxx/README.md)
