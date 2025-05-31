@@ -25,6 +25,7 @@
   - [20. 百科](#20-百科)
   - [21. 语雀](#21-语雀)
   - [22. AI](#22-ai)
+    - [22.1. 视频](#221-视频)
   - [23. ⏰ project graph](#23--project-graph)
   - [24. ⏰ pending](#24--pending)
 
@@ -441,6 +442,14 @@
   - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md#1--概述)
   - [2. 🤖 AI - 请给我一个连连看的 Web 程序](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md#2--ai---请给我一个连连看的-web-程序)
 
+### 22.1. 视频
+
+- [x] [0049. AI 绘图教程](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B/README.md)
+  - [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+    - [bilibili.TNotes.notes.0049.1](https://www.bilibili.com/video/BV1DP7JzAE7k)
+  - [1. 📝 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B/README.md#1--概述)
+  - [2. 🔗 1 分钟生成架构图？程序员 AI 绘图保姆级教程](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B/README.md#2--1-分钟生成架构图程序员-ai-绘图保姆级教程)
+
 ## 23. ⏰ project graph
 
 - [ ] [0026. project graph](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20project%20graph/README.md)
@@ -448,8 +457,6 @@
 
 ## 24. ⏰ pending
 
-- [ ] [0049. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20xxx/README.md#1--notes_title)
 - [ ] [0050. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20xxx/README.md#1--notes_title)
 - [ ] [0051. xxx](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0051.%20xxx/README.md)
