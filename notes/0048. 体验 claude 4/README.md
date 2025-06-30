@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
-  - [bilibili.TNotes.notes.0048.1](https://www.bilibili.com/video/BV1XwjozKEcb)
 - [1. 📝 概述](#1--概述)
 - [2. 🤖 AI - 请给我一个连连看的 Web 程序](#2--ai---请给我一个连连看的-web-程序)
 

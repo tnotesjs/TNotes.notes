@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
-  - [bilibili.TNotes.notes.0049.1](https://www.bilibili.com/video/BV1DP7JzAE7k)
 - [1. 📝 概述](#1--概述)
 - [2. 🔗 1 分钟生成架构图？程序员 AI 绘图保姆级教程](#2--1-分钟生成架构图程序员-ai-绘图保姆级教程)
 
