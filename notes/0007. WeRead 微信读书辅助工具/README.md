@@ -421,13 +421,13 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-12-58.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-12-58.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-13-41.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-13-41.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-34.png)
+![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-34.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-45.png)
+![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-45.png)
 
 :::
 
@@ -438,13 +438,13 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-50.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-50.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-58.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-58.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-05.png)
+![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-05.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-23.png)
+![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-23.png)
 
 :::
 
@@ -456,9 +456,9 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-18.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-18.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-35.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-35.png)
 
 :::
 

@@ -94,31 +94,31 @@
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-42.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-42.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-14.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-14.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-59.png)
+![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-59.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-17.png)
+![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-17.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-29.png)
+![5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-29.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-37.png)
+![6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-37.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-43.png)
+![7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-43.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-49.png)
+![8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-49.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-55.png)
+![9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-55.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-02.png)
+![10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-02.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-08.png)
+![11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-08.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-14.png)
+![12](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-14.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-36.png)
+![13](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-36.png)
 
 :::
 
@@ -231,14 +231,14 @@
 
 ## 12. 🤔 如何开启自动检测窗口？
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-45.png)
+![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-45.png)
 
 **【方案 1】**
 
 1. 打开首选项
 2. 勾选「自动检测窗口」
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-54.png)
+![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-54.png)
 
 **【方案 2】**
 
@@ -251,9 +251,9 @@
 
 ::: swiper
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-05.png)
+![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-05.png)
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-31.png)
+![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-31.png)
 
 :::
 
