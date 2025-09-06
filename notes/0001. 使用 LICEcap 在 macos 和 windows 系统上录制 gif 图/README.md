@@ -24,14 +24,14 @@
   - macos、windows 均支持
   - 可配置录制参数
 - LICEcap 实测可用，使用步骤也比较简单，可以在官方文档中点击 view a demo 来快速了解这玩意儿应该如何使用。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-14-10-29-36.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-14-10-29-36.png)
 
 ## 3. 📒 LICEcap 的安装和使用步骤
 
 ### 3.1. 安装
 
 - 访问 [LICEcap 官方网站](https://www.cockos.com/licecap/) 下载 LICEcap。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-11-30-12-00-23.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-11-30-12-00-23.png)
 
 ### 3.2. 使用步骤
 
@@ -41,7 +41,7 @@
    - 简单点直接使用默认的即可，不需要修改参数配置的值。
 4. 将录制的框挪动到你需要录制的位置，点击开始录制，在录制完毕后点击 stop 结束即可。
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-11-30-12-07-42.png)
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-11-30-12-07-42.png)
 
 ## 4. 💻 使用 LICEcap 截 gif 图的效果展示
 
@@ -57,11 +57,11 @@
 
 - LICEcap 官方文档
   - https://www.cockos.com/licecap/
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-02-02-35-36.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-02-02-35-36.png)
 - gituhub
   - https://github.com/justinfrankel/licecap
 - DeepWiki
   - https://deepwiki.com/justinfrankel/licecap
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-02-02-34-54.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-02-02-34-54.png)
 
 :::

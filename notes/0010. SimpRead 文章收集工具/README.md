@@ -56,7 +56,7 @@
 ## 4. 💻 安装 SimpRead
 
 - 直接进入 [简悦的官网](https://simpread.pro/) 安装即可。
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-17-53-22.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-17-53-22.png)
 
 ## 5. 📒 文章搬运流程
 
@@ -120,15 +120,15 @@ document.onkeydown = (e) => {
 
 | **快捷键** | **功能说明** | **备注** |
 | --- | --- | --- |
-| `Alt` `I` | 展开菜单 | 相当于点击 ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-00-48.png) |
-| `Alt` `Y` | 将文章导入到语雀中 | 相当于点击 ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-01-21.png) |
+| `Alt` `I` | 展开菜单 | 相当于点击 ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-00-48.png) |
+| `Alt` `Y` | 将文章导入到语雀中 | 相当于点击 ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-01-21.png) |
 
 - **脚本的配置**
   - 如果你用的插件是 `Scripty`，可以参考下图来配置脚本。
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-03-40.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-03-40.png)
 - **Wgesture 配置**
   - 如果你电脑上安装了 Wgesture 鼠标手势辅助工具，可以通过以下配置来进一步简化收藏文章的流程。
-  - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-05-16.png)
+  - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-05-16.png)
   - 网页文章的搬运流程：
     1. 当前聚焦的窗口是 chrome 应用
     2. 按下右键做一个打钩 ✅ 的手势
@@ -138,11 +138,11 @@ document.onkeydown = (e) => {
 
 ### 9.1. 🤔 问：SimpRead 保存到语雀怎么授权？
 
-- ![图 7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-12-57.png)
+- ![图 7](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-12-57.png)
 - 如果你在【用户设置】界面中看到授权列表里边有【SimpRead v2】那么应该意味着已经成功授权了。
-- ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-13-47.png)
+- ![图 8](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-13-47.png)
 - 不想要授权的话，直接删掉就好了。
-- ![图 9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-14-02.png)
+- ![图 9](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-14-02.png)
 - 具体如何授权，以及授权的流程，可以参考 simply read 官方文档 👉 https://simpread.pro/
 
 ### 9.2. 🤔 问：SimpRead 都有哪些槽点？
@@ -150,11 +150,11 @@ document.onkeydown = (e) => {
 - 配置很多，对新手不友好
 - 不支持移动端（这一点待定，没研究过，有的网友说可以，有的说不行）
 - 一些网友的评论：
-  - ![图 10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-17-05.png)
-  - ![图 11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-17-18.png)
-  - ![图 12](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-17-26.png)
-  - ![图 13](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-17-41.png)
-  - ![图 14](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-17-49.png)
+  - ![图 10](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-17-05.png)
+  - ![图 11](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-17-18.png)
+  - ![图 12](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-17-26.png)
+  - ![图 13](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-17-41.png)
+  - ![图 14](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-17-49.png)
 - 我的评论：
   - 就目前自己的使用场景来说，这东西已经很 nice 了，算是目前找到的，在 PC 端收集文章的最佳的方式了。
   - 在找到更好地方式之前，应该会一直使用简悦。
@@ -163,7 +163,7 @@ document.onkeydown = (e) => {
 ### 9.3. 🤔 问：cubox 是什么？
 
 - 想要快速了解 cubox 是什么，可以查看 Bilibili 上的这个视频 👉🏻 [个人碎片知识库，一键收藏、高效整理——Cubox](https://www.bilibili.com/video/BV1ji4y1R7Sf)
-- ![图 15](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-20-44.png)
+- ![图 15](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-20-44.png)
 
 <BilibiliOutsidePlayer id="BV1ji4y1R7Sf" />
 
@@ -185,26 +185,26 @@ document.onkeydown = (e) => {
 ### 9.5. 🤔 问：简悦对 pdf 的支持如何？
 
 - **网友提问**
-  - ![图 16](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-24-31.png)
+  - ![图 16](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-24-31.png)
 - 答：感觉还行，可以随便找篇在线文章测试下效果。
 - 测试说明：
   - **测试文章链接**
     - https://www.runoob.com/css/css-tutorial.html
   - **测试步骤**
     - 点击导出 pdf 按钮
-      - ![图 17](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-26-27.png)
+      - ![图 17](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-26-27.png)
     - 如果首次导出 pdf，也许会出现如下提示框，点击“不再提示”
-      - ![图 18](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-27-10.png)
+      - ![图 18](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-27-10.png)
       - 测试时发现，如果不将这个提示给去掉，那么导出的内容的头部会被这个提示框覆盖。
   - **最终效果对比**
     - 原页面截图：
-      - ![图 19](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-27-58.png)
+      - ![图 19](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-27-58.png)
     - 导出效果：
-      - ![图 20](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-28-32.png)
-      - ![图 21](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-29-00.png)
+      - ![图 20](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-28-32.png)
+      - ![图 21](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-29-00.png)
     - 导出效果（没有将导出提示给去掉）：
-      - ![图 22](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-29-17.png)
-      - ![图 23](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-29-28.png)
+      - ![图 22](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-29-17.png)
+      - ![图 23](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-29-28.png)
 
 ### 9.6. 🤔 问：如何让简悦更准确地识别文章？
 
@@ -220,16 +220,16 @@ document.onkeydown = (e) => {
 
 ### 9.7. 🤔 问：授权需要登录高级账户吗？
 
-- ![图 24](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-36-14.png)
+- ![图 24](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-36-14.png)
 - 有些不记得了，授权好像是不用的，如果尝试授权下看看效果，如果没有啥错误提示的话，应该是可以授权成功的。
 - 在配置中没有看到授权后边跟有「超级会员」的字样，也许不需要开通会员就能用。
-- ![图 25](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-36-50.png)
+- ![图 25](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-36-50.png)
 
 ## 10. ❤️‍🩹 被吐槽
 
-- ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-07-12.png)
+- ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-07-12.png)
 - …… 还有不少负面评价，有针对这款工具的，也有针对个人的。伤心图的就不多截了
-- ![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-04-19-07-23.png)
+- ![图 6](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-07-23.png)
 - 评论中提到的，简悦没有手机客户端这事儿（也有人说是有的，我懒得验证了），貌似是有客户端收藏文章的方案的，由于工作性质决定全天大部分时间（90%↑）都在和 PC 打交道，所以没去研究过。确实有这方面需求的小伙伴，不妨去查阅一下简悦的官方文档。
 
 ## 11. 🤦‍♂️ 一些反思

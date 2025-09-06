@@ -138,7 +138,7 @@ mmdc -i diagram.mmd -o diagram.png
 ```
 
 - 最终效果：
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-11-17-52-40.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-11-17-52-40.png)
 
 ## 6. 🔗 References
 

@@ -38,7 +38,7 @@
 
 ## 3. 📒 打字指法教程
 
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-25-37.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-25-37.png)
 - **左手**
   - 小拇指：`~`、`tab`、`caps lock`、`shift`、`control`、`1`、`Q`、`A`、`Z`、`option`
   - 无名指：`2`、`W`、`S`、`X`
@@ -55,7 +55,7 @@
 ::: details 其他指法
 
 - Qwerty Learner - 推荐打字指法图示
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-27-48.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-27-48.png)
 - 在 qwerty learner 在线练习打字的站点中有推荐的打字指法图示，也可以参考这张图。这张图和上面自己绘制的图相比，核心差异主要体现在最上面的数字键上，几个数字键的差异罢了，怎么习惯怎么来就行。
 
 :::
@@ -72,7 +72,7 @@
 - 当时看同事打的时候看呆了，忘记录视频了，真的很快……
 - 个人封顶 80-100wpm……
 - 排行榜：https://www.zaixiandazi.com/rank/english
-  - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-33-03.png)
+  - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-33-03.png)
 
 :::
 
@@ -94,9 +94,9 @@ console.log(lessonStr)
 - **脚本使用流程简介**：
   - 复制脚本
   - 进入想要练习的 lesson 并打开控制台
-    - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-40-09.png)
+    - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-40-09.png)
   - 粘贴脚本到控制台，按下回车
-    - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-39-05.png)
+    - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-39-05.png)
   - 复制输出的文本内容
     - `5 cute dolphins, 6 big whales, and 55 balloons are floating in the air. 56 reversed is 65 but 56 is smaller than 65. Five pounds of sand in 6 little jars. 5 is my favorite number and 6 is yours.`
   - 随便找个翻译的工具，将内容翻译为中文
@@ -104,7 +104,7 @@ console.log(lessonStr)
 - 补充：
   - 刚测试了一下，脚本还是可以正常使用的。
     - 现在时间：`2025 年 5 月 3 日 19:48:22`
-  - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-03-19-47-33.png)
+  - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-47-33.png)
 - 借助 AI：
   - 翻译工作可以交给 AI 去完成。
   - 如果你对爬虫有所了解，可以自行写一个脚本去爬取 TypingClub 上的 lesson 文本内容。

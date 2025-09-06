@@ -58,7 +58,7 @@
     - 截长图问题
     - 识别问题（仅介绍 mac 端）
 - 以上罗列的是在录制视频之前，想到的几个核心点，在视频中都有对应的片段说明，点击对应的分段即可查阅：
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-41-05.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-41-05.png)
 
 ## 3. 📺 bilibili 在线视频 👉🏻 使用 snipaste 截图工具截取图片文件的正确做法
 
@@ -71,7 +71,7 @@
   2. 完成截图
 - 【省流】一句话阐述视频内容
   - 其实视频中介绍的做法，从剪切板中将图片贴出来（实际上就是 **贴图**）。这种做法的前提是图片文件可以被复制。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-45-39.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-45-39.png)
 - 【优势分析】相较于传统的做法，贴图做法都有哪些优势呢？下面我们简单罗列几点：
 - **透明背景**
   - **需求描述：** 有一张带有透明背景的 png 图片，如何将这个图片截下来，同时需要确保图片依旧带有透明背景呢？
@@ -94,31 +94,31 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-42.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-58-42.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-14.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-56-14.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-56-59.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-56-59.png)
 
-![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-17.png)
+![4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-17.png)
 
-![5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-29.png)
+![5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-29.png)
 
-![6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-37.png)
+![6](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-37.png)
 
-![7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-43.png)
+![7](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-43.png)
 
-![8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-49.png)
+![8](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-49.png)
 
-![9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-57-55.png)
+![9](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-57-55.png)
 
-![10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-02.png)
+![10](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-58-02.png)
 
-![11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-08.png)
+![11](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-58-08.png)
 
-![12](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-14.png)
+![12](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-58-14.png)
 
-![13](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-58-36.png)
+![13](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-58-36.png)
 
 :::
 
@@ -129,21 +129,21 @@
 - snipaste 自身不带有长截图功能，下面记录的是其它解决方案的实现流程。个人使用的是 chrome 浏览器，不同浏览器的做法也许会有所不同……
 - **【流程说明】**
   - **打开 chrome 浏览器，随便进入一个你需要截取的网**
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-04-25.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-04-25.png)
   - **打开开发者工具**
     - 方式 1：右键页面任意位置，选择检查
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-05-12.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-05-12.png)
     - 方式 2：按下键盘上的 F12 按钮，成功打开之后，将会看到页面上会出现这样一个工具板块。
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-06-39.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-06-39.png)
   - **Run command**
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-06-58.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-06-58.png)
     - 可以记一下图片中标注的 Run command 的快捷键 `cmd shift p`，这样下次直接按快捷键就可以 Run command 了。
   - **输入 Capture full size screenshot 搜索对应的命令，点击命令即可截取全网页。**
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-07-40.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-07-40.png)
     - 其实不需要输入全，在我们键入内容的同时，它就会帮我们自动匹配对应的命令，只要找到「Capture full size screenshot」命令（只要输入 full 就可以找到）然后点击它即可。
 - **🤔 如果不想截取整个页面，指向截取某个区域，该如何做呢？**
   - [bilibili 在线视频 👉🏻 截图工具 | snipaste 的使用分享](https://www.bilibili.com/video/BV1QR4y1y7GG/) 中的长截图部分有介绍到详细步骤，自行回看即可……
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-09-33.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-09-33.png)
 
 ## 6. 💻 文本截图
 
@@ -170,7 +170,7 @@
 
 贴图的一个使用场景 —— 快速拼出一些简单的封面，完成一些简单的封面设计需求。下面将以以下这个视频的封面的制作为例来进行介绍。
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-12-21.png)
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-12-21.png)
 
 一、视频封面制作流程介绍。
 
@@ -184,7 +184,7 @@
 
 ## 9. 🤔 snipaste 将来来会支持长截图（滚动截图）功能吗？
 
-- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-14-05.png)
+- ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-14-05.png)
 - 搜了一下，在 github 上找到了相关资料 - [🔍 Snipaste Issues #19](https://github.com/Snipaste/feedback/issues/19)，原来这个需求鸽了 6 年。不过，按照作者的说法是会的。
 
 ## 10. 🤔 snipaste 的设计初衷是？
@@ -193,7 +193,7 @@
 - 在【[少数派](https://sspai.com/)】上看到了一篇有关 snipaste 的文章，介绍了有关 snipaste 的相关内容，里面提到了作者对于 snipaste 的设计初衷的回复。感觉作者的这个回复很 nice，因为自己在使用 snipaste 时，更多时候也不是将其视作一个截图工具来使用，而是当做一个临时笔记来用。把一些想要看的内容给临时贴到屏幕上来看，如果是纯文本的话，每个贴图还能作为文本的容器，需要这些文本时随取随用即可。
   - [幕后丨他做了最强免费「截图」工具 Snipaste 后，还有上万字的话想说 - 少数派](https://sspai.com/post/35097)，这是某次在少数派上看到的文章 —— 一篇关于作者的采访，简言之就是这东西做出来是为了方便自身学习的，想写就写，自身没需求就不写……
     - snipaste 的目的就是用图片来做笔记，临时的笔记，所以是贴在屏幕上而不是放在笔记本里。（这是作者的原话）以下是来自文章中的截图。
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-18-14.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-18-14.png)
 
 ## 11. 🤔 对于 snipaste 来说，何为一次完整的截图？
 
@@ -231,14 +231,14 @@
 
 ## 12. 🤔 如何开启自动检测窗口？
 
-![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-45.png)
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-19-45.png)
 
 **【方案 1】**
 
 1. 打开首选项
 2. 勾选「自动检测窗口」
 
-![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-19-54.png)
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-19-54.png)
 
 **【方案 2】**
 
@@ -251,9 +251,9 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-05.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-20-05.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-20-31.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-20-31.png)
 
 :::
 
@@ -265,7 +265,7 @@
 
 答：**是的。**
 
-![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-14-21-04.png)
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-14-21-04.png)
 
 但凡是可以复制的内容，都能贴出来，更多玩法自己开发即可。本文档记录的内容，大多也都是贴图的一些玩法。
 
@@ -280,7 +280,7 @@
 - https://github.com/liulex
   - snipaste 作者 LeLiu 的 github。
   - 从 github 的信息来看，作者是一位广州人……
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-13-37-34.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-13-37-34.png)
 - https://github.com/Snipaste/feedback/issues/19
   - 有关 snipaste 的反馈 —— 关于滚屏截屏支持讨论。
 - https://sspai.com/post/35097

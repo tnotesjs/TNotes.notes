@@ -10,7 +10,7 @@
 
 - https://twinkletray.com/
   - 官网
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-19-50-48.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-19-50-48.png)
 - https://github.com/xanderfrangos/twinkle-tray
   - github
 - 这是 Windows 端的一款免费工具，用于调节多显示器的亮度。

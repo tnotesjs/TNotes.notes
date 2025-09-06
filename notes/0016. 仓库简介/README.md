@@ -23,8 +23,8 @@
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-03-02-10-50-17.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-03-02-10-50-17.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-03-02-10-48-59.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-03-02-10-48-59.png)
 
 :::

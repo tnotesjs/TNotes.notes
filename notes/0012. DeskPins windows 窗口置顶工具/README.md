@@ -25,7 +25,7 @@
     - 支持自定义快捷方式。
   - `轻量`
     - 体积小，安装后总共就 3 个文件，加起来也不到 200KB。
-    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-12-21.png)
+    - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-12-21.png)
 - 官网：
   - https://efotinis.neocities.org/deskpins/
 
@@ -33,19 +33,19 @@
 
 - 方式 1：安装包可以自行到 DeskPins 的官网下载。（推荐）
 - 方式 2：在 TNotes.yuque 上也有记录 DeskPins 的安装包，有需要的也可自行下载安装。
-  - ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-20-29.png)
+  - ![图 8](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-20-29.png)
 
 ## 4. 💻 DeskPins 如何使用？
 
 - 从官网下载并安装好 DeskPins
 - 打开 DeskPins
   - 按下 `Win` 键，输入 desk……
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-13-25.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-13-25.png)
 - 窗口置顶
   - 点击 DeskPins 图标，再点击需要置顶的窗口
-  - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-14-11.png)
+  - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-14-11.png)
   - 比如将浏览器窗口置顶：
-  - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-14-22.png)
+  - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-14-22.png)
   - 成功置顶后，窗口右上角会多出一个图钉 📌 的 logo
 - 取消窗口置顶
   - 取消哪个窗口，就再点一次那个窗口上右上角的图钉 📌 即可
@@ -61,9 +61,9 @@
 
 ## 6. 🔍 查看 DeskPins 说明书
 
-- ![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-18-45.png)
+- ![图 6](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-18-45.png)
 - 双击 `DeskPins.chm` 文件即可查阅 DeskPins 说明书，了解有关 DeskPins 的更多信息。
-- ![图 7](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-19-03.png)
+- ![图 7](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-19-03.png)
 
 ## 7. 🔍 了解作者 - Elias Fotinis
 
@@ -72,7 +72,7 @@
 - 博客首页：
   - https://efotinis.neocities.org/
 - 其他作品：
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-08-19.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-08-19.png)
 - 希腊人：
   - 维基百科 - patras greece
   - https://en.wikipedia.org/wiki/Patras
@@ -80,4 +80,4 @@
   - 这座城市建在帕纳柴孔山脚下，俯瞰帕特雷湾。
   - 截至 2021 年人口普查，帕特雷市人口为 215,922 人，而城市人口为 173,600 人。
   - 核心聚落已有四千年的历史。
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-05-07-10-51.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-05-07-10-51.png)

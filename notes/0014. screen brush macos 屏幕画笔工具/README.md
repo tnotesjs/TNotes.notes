@@ -42,7 +42,7 @@
   - 比如录课、在线讲课……。
 - **安装**
   - 可自行在 App Store 中下载安装。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-03-07.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-03-07.png)
 
 ## 3. 📺 Bilibili - 什么 你没用过 Mac 神器 屏幕标注工具 ScreenBrush? 教程 + 讲解, 老师好助手
 
@@ -50,23 +50,23 @@
 
 ## 4. 📂 快捷键大全 - ScreenBrush Shortcut List.pdf
 
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-06-32.png)
-- ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-07-01.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-06-32.png)
+- ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-07-01.png)
 - 备注：
   - 完整的 PDF 文件可在 `TNotes.yuque` 上自行获取。
   - 你也可以在 ScreenBrush 软件中查看相关的快捷方式说明。
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-09-05.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-09-05.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-09-13.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-09-13.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-09-22.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-09-22.png)
 
-![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-09-29.png)
+![4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-09-29.png)
 
-![5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-09-37.png)
+![5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-09-37.png)
 
 :::
 
@@ -75,7 +75,7 @@
 ## 5. 📒 参考键盘布局
 
 - 目前正在使用的键盘是 mxkeys mini，笔记中提到的按键及相关案件的相对位置，将以此键盘上的显示的按键为例进行说明。
-- ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-06-02-15-18.png)
+- ![图 8](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-06-02-15-18.png)
 
 ## 6. 💻 demos
 

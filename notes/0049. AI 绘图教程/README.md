@@ -28,4 +28,4 @@
 
 - 文章链接：
   - https://github.com/liyupi/ai-guide/blob/main/AI/AI%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/AI%20%2B%20%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/1%20%E5%88%86%E9%92%9F%E7%94%9F%E6%88%90%E6%9E%B6%E6%9E%84%E5%9B%BE%EF%BC%9F%E7%A8%8B%E5%BA%8F%E5%91%98%20AI%20%E7%BB%98%E5%9B%BE%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B.md
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-30-21-50-25.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-30-21-50-25.png)

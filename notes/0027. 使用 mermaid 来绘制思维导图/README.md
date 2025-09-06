@@ -262,7 +262,7 @@ mindmap
     - Material Design Icons 图标库
     - 比如想要添加一个房子的图标，搜索到了 home 是想要的，那么只需要在对应的节点后面加上 `::icon(mdi mdi-home)` 即可。
       - 如果是在 Font Awesome 5 图标库中找到的图标，将前缀 mdi 改为 fa 即可。
-    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-10-25-54.png)
+    - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-19-10-25-54.png)
 
 ```
 mindmap
@@ -283,13 +283,13 @@ mindmap
 - **问：如果使用图标的话，可以正常渲染出来吗？**
   - 测试结果如下：
     - 下面的截图来自 mermaid 官方的渲染结果：
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-10-46-00.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-19-10-46-00.png)
       - 这可能是我们想要的结果，官方站点或许集成了这些图标，打开站点的时候就把这些字体图标请求过来了。
     - 下面的截图来自 GitHub 上的渲染结果：
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-10-47-10.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-19-10-47-10.png)
       - 两个图标都没法渲染，但是图标的位置是被保留了。
     - 下面的截图来自本地 VSCode 中的 markdown preview enhanced 插件的渲染结果：
-      - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-10-45-27.png)
+      - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-19-10-45-27.png)
       - 成功渲染了一个图标。
 
 ```
@@ -427,7 +427,7 @@ mindmap
 ```
 
 - 在 GitHub 上也是可以预览的，以下是在 VSCode 上预览的效果。
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-19-09-35-19.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-19-09-35-19.png)
 - 官方示例 2
 
 ```

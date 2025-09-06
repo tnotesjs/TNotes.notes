@@ -32,7 +32,7 @@
   - 不再维护的笔记，后续随时可能删除。
 - 最后一次修改于：`2025 年 4 月 10 日 21:39:18`
   - 今天收到网友反馈，正好近期也在用微信读书看 Node.js 的相关书籍，于是就简单修了一版脚本。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-10-21-39-27.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-10-21-39-27.png)
 
 ## 2. 📝 概述
 
@@ -84,10 +84,10 @@
 ## 5. 📒 测试设备（键盘）说明
 
 - 目前使用的是 MX Keys Mini 键盘，这是一款非全尺寸键盘，键盘外观如下：
-- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-59-20.png)
+- ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-15-59-20.png)
 - 视频中介绍的所有操作，都是基于当前这个键盘来操作的，有些朋友使用的也许是全尺寸键盘，全尺寸键盘的按键会相对多一些，按侧边的这些数字键也是等效的。
 - 下面这是全尺寸键盘，实际上在按下数字键的时候，按上边儿的数字和下边儿的数字效果都是一样的。
-- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-00-08.png)
+- ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-00-08.png)
 
 ## 6. 💻 微信读书脚本
 
@@ -402,7 +402,7 @@ app.whenReady().then(() => {
 ### 8.1. 解决 macos 安装报错问题
 
 - macos 报错 - “weread-helper” 已损坏
-  - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-21-33.png)
+  - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-21-33.png)
 - 将 weread-helper 丢到应用程序 Applications 目录中
 - 执行命令解决报错问题
   - `sudo xattr -rd com.apple.quarantine /Applications/weread-helper.app`
@@ -410,7 +410,7 @@ app.whenReady().then(() => {
 
 ### 8.2. 记录开发微信读书桌面版时的桌面环境
 
-- ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-07-26.png)
+- ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-07-26.png)
 - 右边是我家的 we，已经 1 岁了，巨社恐～
 - 桌面番茄钟从 30 开始倒计时，写完出包时还剩 10min，比想象得快了好多……
 
@@ -421,13 +421,13 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-12-58.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-12-58.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-13-41.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-13-41.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-34.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-14-34.png)
 
-![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-14-45.png)
+![4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-14-45.png)
 
 :::
 
@@ -438,13 +438,13 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-50.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-17-50.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-17-58.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-17-58.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-05.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-18-05.png)
 
-![4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-16-18-23.png)
+![4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-16-18-23.png)
 
 :::
 
@@ -456,9 +456,9 @@ app.whenReady().then(() => {
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-18.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-15-45-18.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-12-13-15-45-35.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-12-13-15-45-35.png)
 
 :::
 

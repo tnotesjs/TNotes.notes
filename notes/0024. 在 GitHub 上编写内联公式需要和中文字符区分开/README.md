@@ -36,11 +36,11 @@
 - 不加空格的写法
   - 时间复杂度：$O(n)$
     - 时间复杂度：`$O(n)$`
-  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-19-50.png)
+  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-20-22-19-50.png)
 - 加空格的写法
   - 时间复杂度： $O(n)$
     - 时间复杂度：` $O(n)$`
-  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2024-10-20-22-19-54.png)
+  - 在 GitHub 上看到的结果：![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-20-22-19-54.png)
 - 注意：
   - 是否在公式和中文字符之间加空格，在本地（比如用 vsocde 或者 vitepress 来编写 markdown）对公式的正常渲染没啥影响，但是在 GitHub 上，如果公式和中文字符之间没有空格，那么公式将无法正常渲染。
   - 可以点击本节笔记标题，进入到 Github 上预览这个 README.md 笔记文档内容，会发现不加空格的写法会导致公式无法被正常解析。

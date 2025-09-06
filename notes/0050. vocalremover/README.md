@@ -10,7 +10,7 @@
 
 - 在线访问链接：
   - https://vocalremover.org/zh/
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-09-21-48-39.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-09-21-48-39.png)
 - `vocalremover.org` 是一款专注于人声分离的在线音频处理工具，主要特点包括：
   - **格式支持**：可处理 MP3/WAV/FLAC 等常见音频格式
   - **操作便捷**：无需安装软件，网页端拖拽上传即可自动处理，适合非专业用户快速处理音频

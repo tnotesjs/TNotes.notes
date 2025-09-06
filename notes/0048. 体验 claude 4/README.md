@@ -24,7 +24,7 @@
 ## 3. 🤖 AI - 请给我一个连连看的 Web 程序
 
 - 最终效果预览：
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-28-20-31-16.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-28-20-31-16.png)
 
 ```html
 <!DOCTYPE html>

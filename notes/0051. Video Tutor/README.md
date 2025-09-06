@@ -19,12 +19,12 @@
 
 - 输入：
   - `介绍词汇：cancel、explosive、numerous、govern、analysis`
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-07-07-22-51-15.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-07-07-22-51-15.png)
 - 耗时：
   - 测试下来耗时 > 生成的视频总时长
 - 生成效果：
   - 见 TNotes.yuque -> notes.0051
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-07-07-22-57-01.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-07-07-22-57-01.png)
   - 有部分词汇重复介绍了。
 
 ## 3. 🔗 References
