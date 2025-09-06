@@ -15,7 +15,7 @@
     "assets"
   ],
   "port": 9379,
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--pc.svg"
@@ -25,7 +25,7 @@
     "details": "早期在 B 站坐的工具分享系列内容，或者存储的一些没有明确分组的笔记的集合。",
     "link": "https://tdahuyou.github.io/TNotes.notes/",
     "created_at": 1740883219000,
-    "updated_at": 1754494585068,
+    "updated_at": 1757163551211,
     "days_since_birth": 9379
   },
   "menuItems": [
@@ -63,7 +63,7 @@
     },
     {
       "ariaLabel": "TNotes.template github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.template",
+      "link": "https://github.com/tnotesjs/TNotes.template",
       "icon": "github"
     }
   ],
