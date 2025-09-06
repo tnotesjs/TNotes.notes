@@ -1,4 +1,4 @@
-# [0042. twinkletray](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0042.%20twinkletray)
+# [0042. twinkletray](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0042.%20twinkletray)
 
 <!-- region:toc -->
 

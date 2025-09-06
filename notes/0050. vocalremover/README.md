@@ -1,4 +1,4 @@
-# [0050. vocalremover](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0050.%20vocalremover)
+# [0050. vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20vocalremover)
 
 <!-- region:toc -->
 

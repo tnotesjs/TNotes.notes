@@ -1,4 +1,4 @@
-# [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE)
+# [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE)
 
 <!-- region:toc -->
 

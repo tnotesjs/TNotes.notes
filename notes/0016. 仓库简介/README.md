@@ -1,4 +1,4 @@
-# [0016. 仓库简介](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B)
+# [0016. 仓库简介](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 

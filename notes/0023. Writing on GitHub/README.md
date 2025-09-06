@@ -1,4 +1,4 @@
-# [0023. Writing on GitHub](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub)
+# [0023. Writing on GitHub](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0023.%20Writing%20on%20GitHub)
 
 <!-- region:toc -->
 

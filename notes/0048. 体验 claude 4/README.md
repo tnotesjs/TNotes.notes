@@ -1,4 +1,4 @@
-# [0048. 体验 claude 4](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204)
+# [0048. 体验 claude 4](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204)
 
 <!-- region:toc -->
 

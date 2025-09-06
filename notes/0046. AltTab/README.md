@@ -1,4 +1,4 @@
-# [0046. AltTab](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0046.%20AltTab)
+# [0046. AltTab](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0046.%20AltTab)
 
 <!-- region:toc -->
 

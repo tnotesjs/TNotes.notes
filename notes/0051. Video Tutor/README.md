@@ -1,4 +1,4 @@
-# [0051. Video Tutor](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0051.%20Video%20Tutor)
+# [0051. Video Tutor](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0051.%20Video%20Tutor)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0027. 使用 mermaid 来绘制思维导图](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0027.%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+# [0027. 使用 mermaid 来绘制思维导图](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0027.%20%E4%BD%BF%E7%94%A8%20mermaid%20%E6%9D%A5%E7%BB%98%E5%88%B6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
 <!-- region:toc -->
 

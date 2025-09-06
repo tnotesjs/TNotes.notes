@@ -1,4 +1,4 @@
-# [0044. 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F)
+# [0044. 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0047. 金吉拉](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89)
+# [0047. 金吉拉](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0047.%20%E9%87%91%E5%90%89%E6%8B%89)
 
 <!-- region:toc -->
 

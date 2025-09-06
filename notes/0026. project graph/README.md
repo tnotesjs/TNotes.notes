@@ -1,4 +1,4 @@
-# [0026. project graph](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0026.%20project%20graph)
+# [0026. project graph](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0026.%20project%20graph)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0024. 在 GitHub 上编写内联公式需要和中文字符区分开](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80)
+# [0024. 在 GitHub 上编写内联公式需要和中文字符区分开](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0024.%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%BC%96%E5%86%99%E5%86%85%E8%81%94%E5%85%AC%E5%BC%8F%E9%9C%80%E8%A6%81%E5%92%8C%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E5%8C%BA%E5%88%86%E5%BC%80)
 
 <!-- region:toc -->
 

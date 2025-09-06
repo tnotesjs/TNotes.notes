@@ -1,4 +1,4 @@
-# [0043. 蜡笔小新女明星录](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0043.%20%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E5%A5%B3%E6%98%8E%E6%98%9F%E5%BD%95)
+# [0043. 蜡笔小新女明星录](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0043.%20%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E5%A5%B3%E6%98%8E%E6%98%9F%E5%BD%95)
 
 <!-- region:toc -->
 

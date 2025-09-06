@@ -1,4 +1,4 @@
-# [0040. 猫咪一天的活动时间](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4)
+# [0040. 猫咪一天的活动时间](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0040.%20%E7%8C%AB%E5%92%AA%E4%B8%80%E5%A4%A9%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4)
 
 <!-- region:toc -->
 

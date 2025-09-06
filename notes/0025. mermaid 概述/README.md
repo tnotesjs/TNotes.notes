@@ -1,4 +1,4 @@
-# [0025. mermaid 概述](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0025.%20mermaid%20%E6%A6%82%E8%BF%B0)
+# [0025. mermaid 概述](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0025.%20mermaid%20%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

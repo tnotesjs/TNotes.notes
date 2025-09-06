@@ -1,4 +1,4 @@
-# [0049. AI 绘图教程](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B)
+# [0049. AI 绘图教程](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B)
 
 <!-- region:toc -->
 

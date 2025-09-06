@@ -1,4 +1,4 @@
-# [0045. 路由器和光猫的功能与区别](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB)
+# [0045. 路由器和光猫的功能与区别](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB)
 
 <!-- region:toc -->
 

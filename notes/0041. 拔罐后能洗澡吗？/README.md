@@ -1,4 +1,4 @@
-# [0041. 拔罐后能洗澡吗？](https://github.com/Tdahuyou/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F)
+# [0041. 拔罐后能洗澡吗？](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0041.%20%E6%8B%94%E7%BD%90%E5%90%8E%E8%83%BD%E6%B4%97%E6%BE%A1%E5%90%97%EF%BC%9F)
 
 <!-- region:toc -->
 
