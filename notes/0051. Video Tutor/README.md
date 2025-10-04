@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.notes.0051](https://www.yuque.com/tdahuyou/tnotes.yuque/notes.0051)
 - [1. 📝 概述](#1--概述)
 - [2. 💻 测试：生成英语词汇介绍的视频](#2--测试生成英语词汇介绍的视频)
 - [3. 🔗 References](#3--references)
