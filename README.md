@@ -2,30 +2,7 @@
 
 <!-- region:toc -->
 
-- [notes](#notes)
-  - [1. Introduction](#1-introduction)
-  - [2. Snipaste](#2-snipaste)
-  - [3. LICEcap](#3-licecap)
-  - [4. AltTab](#4-alttab)
-  - [5. Wgesture](#5-wgesture)
-  - [6. WeRead](#6-weread)
-  - [7. SimpRead](#7-simpread)
-  - [8. TypingClub](#8-typingclub)
-  - [9. Qwerty Learner](#9-qwerty-learner)
-  - [10. TTSmaker](#10-ttsmaker)
-  - [11. Deskpins](#11-deskpins)
-  - [12. ScreenBrush](#12-screenbrush)
-  - [13. twinkle-tray](#13-twinkle-tray)
-  - [14. Windows](#14-windows)
-  - [15. markdown](#15-markdown)
-  - [16. 猫](#16-猫)
-  - [17. 蜡笔小新](#17-蜡笔小新)
-  - [18. 百科](#18-百科)
-  - [19. 语雀](#19-语雀)
-  - [20. AI](#20-ai)
-  - [21. 音频在线编辑器](#21-音频在线编辑器)
-  - [22. ⏰ project graph](#22--project-graph)
-  - [23. ⏰ pending](#23--pending)
+
 
 <!-- endregion:toc -->
 
@@ -53,7 +30,7 @@
 
 ## 6. WeRead
 
-- [ ] [0007. WeRead 微信读书辅助工具](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md)
+- [x] [0007. WeRead 微信读书辅助工具](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md)
 
 ## 7. SimpRead
 

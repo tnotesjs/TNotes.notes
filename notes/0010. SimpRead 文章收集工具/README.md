@@ -2,8 +2,13 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+::: details 📚 相关资源
+
+- [📺 bilibili（笔记视频资源）](https://space.bilibili.com/407241004)
   - [bilibili.TNotes.notes.0010.1](https://www.bilibili.com/video/BV19v4y1h7mY)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 📺 TNotes.bilibili](#2--tnotesbilibili)
 - [3. 📒 文章收集新策略](#3--文章收集新策略)

@@ -2,10 +2,15 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+::: details 📚 相关资源
+
+- [📺 bilibili（笔记视频资源）](https://space.bilibili.com/407241004)
   - [bilibili.TNotes.notes.0011.1](https://www.bilibili.com/video/BV1iX4y1a7Fz)
   - [bilibili.TNotes.notes.0011.2](https://www.bilibili.com/video/BV18H4y1H7GN)
   - [bilibili.TNotes.notes.0011.3](https://www.bilibili.com/video/BV141421U7tA)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 📺 视频](#2--视频)
 - [3. 📒 TTSmaker 简介](#3--ttsmaker-简介)

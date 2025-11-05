@@ -2,9 +2,14 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+::: details 📚 相关资源
+
+- [📺 bilibili（笔记视频资源）](https://space.bilibili.com/407241004)
   - [bilibili.TNotes.notes.0009.1](https://www.bilibili.com/video/BV1sj411A7r2)
   - [bilibili.TNotes.notes.0009.2](https://www.bilibili.com/video/BV1w24y1p79A)
+
+:::
+
 - [1. 📝 概述](#1--概述)
 - [2. 🔗 Qwerty Learner 在线访问链接](#2--qwerty-learner-在线访问链接)
 - [3. 📺 TNotes.bilibili](#3--tnotesbilibili)

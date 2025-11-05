@@ -2,9 +2,14 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+::: details 📚 相关资源
+
+- [📺 bilibili（笔记视频资源）](https://space.bilibili.com/407241004)
   - [bilibili.TNotes.notes.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)
   - [bilibili.TNotes.notes.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
+
+:::
+
 - [1. ❌ Deprecated](#1--deprecated)
 - [2. 📝 概述](#2--概述)
 - [3. 📺 视频](#3--视频)

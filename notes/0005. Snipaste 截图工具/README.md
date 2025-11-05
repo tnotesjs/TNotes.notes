@@ -2,9 +2,14 @@
 
 <!-- region:toc -->
 
-- [📺 bilibili 👉 TNotes 合集](https://space.bilibili.com/407241004)
+::: details 📚 相关资源
+
+- [📺 bilibili（笔记视频资源）](https://space.bilibili.com/407241004)
   - [bilibili.TNotes.notes.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)
   - [bilibili.TNotes.notes.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
+
+:::
+
 - [1. 📒 内容概述](#1--内容概述)
 - [2. 📺 bilibili 在线视频 👉🏻 截图工具 | snipaste 的使用分享](#2--bilibili-在线视频--截图工具--snipaste-的使用分享)
 - [3. 📺 bilibili 在线视频 👉🏻 使用 snipaste 截图工具截取图片文件的正确做法](#3--bilibili-在线视频--使用-snipaste-截图工具截取图片文件的正确做法)
