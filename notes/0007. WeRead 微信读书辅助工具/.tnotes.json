@@ -1,14 +1,12 @@
 {
-  "bilibili": [
-    "BV1Ds4y1W7mq",
-    "BV1sZ421p7fW"
-  ],
+  "bilibili": ["BV1Ds4y1W7mq","BV1sZ421p7fW"],
   "tnotes": [],
   "yuque": [],
   "done": false,
+  "deprecated": true,
   "enableDiscussions": false,
-  "created_at": 1758172039977,
-  "updated_at": 1758172039977,
+  "description": "",
   "id": "f7bec8a1-06cf-49f6-bc3d-51e4fc9e313d",
-  "deprecated": true
+  "created_at": 1758172039977,
+  "updated_at": 1758172039977
 }
