@@ -22,6 +22,8 @@
     },
     "title": "notes",
     "completed_notes_count": {
+      "25.01": 0,
+      "25.02": 0,
       "25.03": 17,
       "25.04": 16,
       "25.05": 46,
@@ -36,7 +38,7 @@
     "details": "早期在 B 站坐的工具分享系列内容，或者存储的一些没有明确分组的笔记的集合。",
     "link": "https://tnotesjs.github.io/TNotes.notes/",
     "created_at": 1740883219000,
-    "updated_at": 1764578492881,
+    "updated_at": 1765719225734,
     "days_since_birth": 9379
   },
   "menuItems": [
