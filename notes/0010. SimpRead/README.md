@@ -1,4 +1,4 @@
-# [0010. SimpRead 文章收集工具](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7)
+# [0010. SimpRead](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0010.%20SimpRead)
 
 <!-- region:toc -->
 

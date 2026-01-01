@@ -1,158 +1,74 @@
 [
   {
-    "text": "1. Introduction",
+    "text": "1. TNotes.notes",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 0016. 仓库简介",
-        "link": "/notes/0016. 仓库简介/README"
+        "text": "✅ 0016. TNotes.notes",
+        "link": "/notes/0016. TNotes.notes/README"
       }
     ]
   },
   {
-    "text": "2. Snipaste",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0005. Snipaste 截图工具",
-        "link": "/notes/0005. Snipaste 截图工具/README"
-      },
-      {
-        "text": "✅ 0017. 回复关于 snipaste 下载失败的问题",
-        "link": "/notes/0017. 回复关于 snipaste 下载失败的问题/README"
-      },
-      {
-        "text": "✅ 0019. 梦想中完美的截图软件，终于有人开发出来了！",
-        "link": "/notes/0019. 梦想中完美的截图软件，终于有人开发出来了！/README"
-      }
-    ]
-  },
-  {
-    "text": "3. LICEcap",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图",
-        "link": "/notes/0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图/README"
-      }
-    ]
-  },
-  {
-    "text": "4. AltTab",
+    "text": "2. 软件工具分享",
     "collapsed": true,
     "items": [
       {
         "text": "✅ 0046. AltTab",
         "link": "/notes/0046. AltTab/README"
-      }
-    ]
-  },
-  {
-    "text": "5. Wgesture",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0006. Wgesture 鼠标手势工具",
-        "link": "/notes/0006. Wgesture 鼠标手势工具/README"
-      }
-    ]
-  },
-  {
-    "text": "6. WeRead",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "❌ 0007. WeRead 微信读书辅助工具",
-        "link": "/notes/0007. WeRead 微信读书辅助工具/README"
-      }
-    ]
-  },
-  {
-    "text": "7. SimpRead",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0010. SimpRead 文章收集工具",
-        "link": "/notes/0010. SimpRead 文章收集工具/README"
-      }
-    ]
-  },
-  {
-    "text": "8. TypingClub",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0008. TypingClub 打字练习工具",
-        "link": "/notes/0008. TypingClub 打字练习工具/README"
-      }
-    ]
-  },
-  {
-    "text": "9. Qwerty Learner",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0009. Qwerty Learner 打字练习 + 学习外语工具",
-        "link": "/notes/0009. Qwerty Learner 打字练习 + 学习外语工具/README"
-      }
-    ]
-  },
-  {
-    "text": "10. TTSmaker",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0011. TTSmaker 文本转语音在线工具",
-        "link": "/notes/0011. TTSmaker 文本转语音在线工具/README"
-      }
-    ]
-  },
-  {
-    "text": "11. Deskpins",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0012. DeskPins windows 窗口置顶工具",
-        "link": "/notes/0012. DeskPins windows 窗口置顶工具/README"
-      }
-    ]
-  },
-  {
-    "text": "12. ScreenBrush",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0014. screen brush macos 屏幕画笔工具",
-        "link": "/notes/0014. screen brush macos 屏幕画笔工具/README"
-      }
-    ]
-  },
-  {
-    "text": "13. twinkle-tray",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0042. twinkletray",
-        "link": "/notes/0042. twinkletray/README"
-      }
-    ]
-  },
-  {
-    "text": "14. Windows",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0002. Windows 锁屏快捷键",
-        "link": "/notes/0002. Windows 锁屏快捷键/README"
       },
       {
-        "text": "✅ 0020. 30年前的技术债引发win11离奇bug，微软不敢修！",
-        "link": "/notes/0020. 30年前的技术债引发win11离奇bug，微软不敢修！/README"
+        "text": "✅ 0012. DeskPins",
+        "link": "/notes/0012. DeskPins/README"
+      },
+      {
+        "text": "✅ 0001. LICEcap",
+        "link": "/notes/0001. LICEcap/README"
+      },
+      {
+        "text": "✅ 0009. Qwerty Learner",
+        "link": "/notes/0009. Qwerty Learner/README"
+      },
+      {
+        "text": "✅ 0014. ScreenBrush",
+        "link": "/notes/0014. ScreenBrush/README"
+      },
+      {
+        "text": "✅ 0010. SimpRead",
+        "link": "/notes/0010. SimpRead/README"
+      },
+      {
+        "text": "✅ 0005. Snipaste",
+        "link": "/notes/0005. Snipaste/README"
+      },
+      {
+        "text": "✅ 0011. TTSmaker",
+        "link": "/notes/0011. TTSmaker/README"
+      },
+      {
+        "text": "✅ 0042. Twinkle Tray",
+        "link": "/notes/0042. Twinkle Tray/README"
+      },
+      {
+        "text": "✅ 0008. TypingClub",
+        "link": "/notes/0008. TypingClub/README"
+      },
+      {
+        "text": "❌ 0007. WeRead",
+        "link": "/notes/0007. WeRead/README"
+      },
+      {
+        "text": "✅ 0006. Wgesture",
+        "link": "/notes/0006. Wgesture/README"
+      },
+      {
+        "text": "✅ 0013. Yuque",
+        "link": "/notes/0013. Yuque/README"
       }
     ]
   },
   {
-    "text": "15. markdown",
+    "text": "3. markdown",
     "collapsed": true,
     "items": [
       {
@@ -174,7 +90,21 @@
     ]
   },
   {
-    "text": "16. 猫",
+    "text": "4. Windows",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 0002. Windows 锁屏快捷键",
+        "link": "/notes/0002. Windows 锁屏快捷键/README"
+      },
+      {
+        "text": "✅ 0020. 30年前的技术债引发win11离奇bug，微软不敢修！",
+        "link": "/notes/0020. 30年前的技术债引发win11离奇bug，微软不敢修！/README"
+      }
+    ]
+  },
+  {
+    "text": "5. 猫",
     "collapsed": true,
     "items": [
       {
@@ -188,7 +118,7 @@
     ]
   },
   {
-    "text": "17. 蜡笔小新",
+    "text": "6. 蜡笔小新",
     "collapsed": true,
     "items": [
       {
@@ -198,7 +128,7 @@
     ]
   },
   {
-    "text": "18. 百科",
+    "text": "7. 百科",
     "collapsed": true,
     "items": [
       {
@@ -220,17 +150,7 @@
     ]
   },
   {
-    "text": "19. 语雀",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0013. 语雀浏览器插件",
-        "link": "/notes/0013. 语雀浏览器插件/README"
-      }
-    ]
-  },
-  {
-    "text": "20. AI",
+    "text": "8. AI",
     "collapsed": true,
     "items": [
       {
@@ -248,7 +168,7 @@
     ]
   },
   {
-    "text": "21. 音频在线编辑器",
+    "text": "9. 音频在线编辑器",
     "collapsed": true,
     "items": [
       {
@@ -258,7 +178,7 @@
     ]
   },
   {
-    "text": "22. ⏰ project graph",
+    "text": "10. ⏰ project graph",
     "collapsed": true,
     "items": [
       {
@@ -268,7 +188,7 @@
     ]
   },
   {
-    "text": "23. ⏰ pending",
+    "text": "11. ⏰ pending",
     "collapsed": true,
     "items": [
       {

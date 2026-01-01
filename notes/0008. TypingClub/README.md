@@ -1,4 +1,4 @@
-# [0008. TypingClub 打字练习工具](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7)
+# [0008. TypingClub](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0008.%20TypingClub)
 
 <!-- region:toc -->
 
