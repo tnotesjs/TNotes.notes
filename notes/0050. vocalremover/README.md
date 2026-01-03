@@ -1,20 +1,33 @@
-# [0050. vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20vocalremover)
+# [0050. Vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20Vocalremover)
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
+- [1. 🎯 本节内容](#1--本节内容)
+- [2. 🫧 评价](#2--评价)
+- [3. 🤔 Vocalremover 是什么？](#3--vocalremover-是什么)
+- [4. 🔗 引用](#4--引用)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🎯 本节内容
 
-- 在线访问链接：
-  - https://vocalremover.org/zh/
-  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-06-09-21-48-39.png)
-- `vocalremover.org` 是一款专注于人声分离的在线音频处理工具，主要特点包括：
-  - **格式支持**：可处理 MP3/WAV/FLAC 等常见音频格式
-  - **操作便捷**：无需安装软件，网页端拖拽上传即可自动处理，适合非专业用户快速处理音频
-  - **附加工具**：附带音高变化调节、节奏调整等基础音频编辑功能
+- Vocalremover 简介
+
+## 2. 🫧 评价
+
+介绍一个在线免费的音频处理工具 -> Vocalremover，在整理 TNotes.en-notes 中的一些 tts 音频资源时经常会用到这玩意儿。
+
+## 3. 🤔 Vocalremover 是什么？
+
+[Vocalremover][1] 是一款专注于人声分离的在线音频处理工具，主要特点包括：
+
+- 格式支持：可处理 MP3/WAV/FLAC 等常见音频格式
+- 操作便捷：无需安装软件，网页端拖拽上传即可自动处理，适合非专业用户快速处理音频
+- 附加工具：附带音高变化调节、节奏调整等基础音频编辑功能
+
+页面布局：
+
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-01-03-20-17-17.png)
 
 | 功能名称      | 功能描述                                                     |
 | ------------- | ------------------------------------------------------------ |
@@ -26,3 +39,9 @@
 | 合并器        | 将多个音频文件合并为一个文件，方便整合不同的音频素材。       |
 | 录音          | 提供录音功能，可以直接录制音频，适用于现场录音或配音。       |
 | 卡拉 OK       | 制作卡拉 OK 音频，通常是在原音频基础上去除人声，保留伴奏。   |
+
+## 4. 🔗 引用
+
+- [vocalremover 官网][1]
+
+[1]: https://vocalremover.org/zh/

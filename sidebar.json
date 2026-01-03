@@ -54,6 +54,10 @@
         "link": "/notes/0008. TypingClub/README"
       },
       {
+        "text": "✅ 0050. Vocalremover",
+        "link": "/notes/0050. Vocalremover/README"
+      },
+      {
         "text": "❌ 0007. WeRead",
         "link": "/notes/0007. WeRead/README"
       },
@@ -150,7 +154,7 @@
     ]
   },
   {
-    "text": "8. AI",
+    "text": "8. 🤖 AI",
     "collapsed": true,
     "items": [
       {
@@ -168,32 +172,12 @@
     ]
   },
   {
-    "text": "9. 音频在线编辑器",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0050. vocalremover",
-        "link": "/notes/0050. vocalremover/README"
-      }
-    ]
-  },
-  {
-    "text": "10. ⏰ project graph",
+    "text": "9. ⏰ project graph",
     "collapsed": true,
     "items": [
       {
         "text": "⏰ 0026. project graph",
         "link": "/notes/0026. project graph/README"
-      }
-    ]
-  },
-  {
-    "text": "11. ⏰ pending",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0051. Video Tutor",
-        "link": "/notes/0051. Video Tutor/README"
       }
     ]
   }

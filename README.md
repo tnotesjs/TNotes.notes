@@ -9,10 +9,8 @@
 - [5. 猫](#5-猫)
 - [6. 蜡笔小新](#6-蜡笔小新)
 - [7. 百科](#7-百科)
-- [8. AI](#8-ai)
-- [9. 音频在线编辑器](#9-音频在线编辑器)
-- [10. ⏰ project graph](#10--project-graph)
-- [11. ⏰ pending](#11--pending)
+- [8. 🤖 AI](#8--ai)
+- [9. ⏰ project graph](#9--project-graph)
 
 <!-- endregion:toc -->
 
@@ -32,6 +30,7 @@
 - [x] [0011. TTSmaker](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0011.%20TTSmaker/README.md)
 - [x] [0042. Twinkle Tray](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0042.%20Twinkle%20Tray/README.md)
 - [x] [0008. TypingClub](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0008.%20TypingClub/README.md)
+- [x] [0050. Vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20Vocalremover/README.md)
 - [ ] [0007. WeRead](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0007.%20WeRead/README.md) ❌
 - [x] [0006. Wgesture](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0006.%20Wgesture/README.md)
 - [x] [0013. Yuque](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0013.%20Yuque/README.md)
@@ -64,20 +63,12 @@
 - [x] [0044. 烤红薯，吃不完，放冰箱，能放多久呢？](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0044.%20%E7%83%A4%E7%BA%A2%E8%96%AF%EF%BC%8C%E5%90%83%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%8C%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%E5%91%A2%EF%BC%9F/README.md)
 - [x] [0045. 路由器和光猫的功能与区别](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0045.%20%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%89%E7%8C%AB%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%8C%BA%E5%88%AB/README.md)
 
-## 8. AI
+## 8. 🤖 AI
 
 - [x] [0048. 体验 claude 4](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0048.%20%E4%BD%93%E9%AA%8C%20claude%204/README.md)
 - [x] [0049. AI 绘图教程](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0049.%20AI%20%E7%BB%98%E5%9B%BE%E6%95%99%E7%A8%8B/README.md)
 - [x] [0051. Video Tutor](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0051.%20Video%20Tutor/README.md)
 
-## 9. 音频在线编辑器
-
-- [x] [0050. vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20vocalremover/README.md)
-
-## 10. ⏰ project graph
+## 9. ⏰ project graph
 
 - [ ] [0026. project graph](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0026.%20project%20graph/README.md)
-
-## 11. ⏰ pending
-
-- [x] [0051. Video Tutor](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0051.%20Video%20Tutor/README.md)
