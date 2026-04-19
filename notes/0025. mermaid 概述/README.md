@@ -120,22 +120,7 @@ mmdc -i diagram.mmd -o diagram.png
 
 ## 5. 💻 demos.1 - 在网页中引入 mermaid
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Mermaid Diagram</title>
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  </head>
-  <body>
-    <div class="mermaid">graph TD; A-->B; A-->C; B-->D; C-->D;</div>
-    <script>
-      mermaid.initialize({ startOnLoad: true });
-    </、script>
-  </body>
-</html>
-```
+<<< ./demos/1/1.html
 
 - 最终效果：
   - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-11-17-52-40.png)
