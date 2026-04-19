@@ -94,7 +94,7 @@
     if (!isVisible_ReaderWriteReviewPanel()) return
     console.log('按下 cmd + enter | ctrl + enter 提交想法')
     const submitButton = document.querySelector(
-      '.wr_btn.wr_btn_Big:not([disabled])'
+      '.wr_btn.wr_btn_Big:not([disabled])',
     )
     submitButton && submitButton.click()
   }
@@ -115,7 +115,7 @@
    */
   function isVisible_ReaderWriteReviewPanel() {
     const isSingleColumn = document.querySelector(
-      '.readerControls_item.isNormalReader'
+      '.readerControls_item.isNormalReader',
     )
     if (isSingleColumn) {
       const panel = document.querySelector('.readerWriteReviewPanel')
