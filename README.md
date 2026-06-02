@@ -30,7 +30,7 @@
 - [x] [0011. TTSmaker](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0011.%20TTSmaker/README.md)
 - [x] [0042. Twinkle Tray](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0042.%20Twinkle%20Tray/README.md)
 - [x] [0008. TypingClub](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0008.%20TypingClub/README.md)
-- [x] [0050. Vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20Vocalremover/README.md)
+- [x] [0050. vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20vocalremover/README.md)
 - [x] [0007. WeRead](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0007.%20WeRead/README.md)
 - [x] [0006. Wgesture](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0006.%20Wgesture/README.md)
 - [x] [0013. Yuque](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0013.%20Yuque/README.md)
