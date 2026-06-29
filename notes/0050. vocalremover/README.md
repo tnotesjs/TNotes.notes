@@ -1,23 +1,23 @@
-# [0050. vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20vocalremover)
+# [0050. Vocalremover](https://github.com/tnotesjs/TNotes.notes/tree/main/notes/0050.%20Vocalremover)
 
 <!-- region:toc -->
 
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 🤔 Vocalremover 是什么？](#3--vocalremover-是什么)
-- [4. 🔗 引用](#4--引用)
+- [1. 本节内容](#1-本节内容)
+- [2. 评价](#2-评价)
+- [3. Vocalremover 是什么？](#3-vocalremover-是什么)
+- [4. 引用](#4-引用)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 本节内容
 
 - Vocalremover 简介
 
-## 2. 🫧 评价
+## 2. 评价
 
 介绍一个在线免费的音频处理工具 -> Vocalremover，在整理 TNotes.en-notes 中的一些 tts 音频资源时经常会用到这玩意儿。
 
-## 3. 🤔 Vocalremover 是什么？
+## 3. Vocalremover 是什么？
 
 [Vocalremover][1] 是一款专注于人声分离的在线音频处理工具，主要特点包括：
 
@@ -40,7 +40,7 @@
 | 录音          | 提供录音功能，可以直接录制音频，适用于现场录音或配音。       |
 | 卡拉 OK       | 制作卡拉 OK 音频，通常是在原音频基础上去除人声，保留伴奏。   |
 
-## 4. 🔗 引用
+## 4. 引用
 
 - [vocalremover 官网][1]
 

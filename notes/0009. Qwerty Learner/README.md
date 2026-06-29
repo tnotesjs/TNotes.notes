@@ -10,30 +10,30 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 🔗 Qwerty Learner 在线访问链接](#2--qwerty-learner-在线访问链接)
-- [3. 📺 TNotes.bilibili](#3--tnotesbilibili)
-- [4. 💻 提取单词数据的脚本（旧版）](#4--提取单词数据的脚本旧版)
-- [5. 🤔 Q&A](#5--qa)
+- [1. 概述](#1-概述)
+- [2. Qwerty Learner 在线访问链接](#2-qwerty-learner-在线访问链接)
+- [3. TNotes.bilibili](#3-tnotesbilibili)
+- [4. 提取单词数据的脚本（旧版）](#4-提取单词数据的脚本旧版)
+- [5. Q&A](#5-qa)
   - [5.1. 🤔 问：如何导入新的词典？](#51--问如何导入新的词典)
   - [5.2. 🤔 问：如何下载 Qwerty Learner 桌面版？](#52--问如何下载-qwerty-learner-桌面版)
   - [5.3. 🤔 问：如何给 Qwerty Learner 项目提建议 or 问题？](#53--问如何给-qwerty-learner-项目提建议-or-问题)
-- [6. 🔗 References](#6--references)
+- [6. References](#6-references)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - Qwerty Learner 简介
 - 单词数据源提取方式说明
 
-## 2. 🔗 Qwerty Learner 在线访问链接
+## 2. Qwerty Learner 在线访问链接
 
 - https://qwerty.kaiyi.cool/
 - https://qwerty-learner.vercel.app/
 - https://realkai42.github.io/qwerty-learner/
 
-## 3. 📺 TNotes.bilibili
+## 3. TNotes.bilibili
 
 - 如果把想要分享的内容全部都介绍完，估计时间会很长，所以计划拆分为俩视频来介绍，每个视频把想要说明的核心要点给讲清楚就好。
 - 录制的两个分享视频时长加起来有 `40min` 了，其中第二个视频的较大篇幅是在介绍如何解析并利用词典数据源。
@@ -57,7 +57,7 @@
   - 脚本使用 & 功能介绍
   - 如何将数据导出为 PDF、word
 
-## 4. 💻 提取单词数据的脚本（旧版）
+## 4. 提取单词数据的脚本（旧版）
 
 - 这部分内容涉及到一些编程相关的知识，暂时还没能力跟大家介绍清楚原理。所以就简单说明一下步骤，和实现逻辑。
   - 步骤：
@@ -157,14 +157,14 @@ function writeFile(fileName) {
     if (i === data.length - 1)
       fs.writeFileSync(
         path.join(resultFolderPath, `./Chapter ${chapterNum}.md`),
-        chapterString
+        chapterString,
       )
     // 拼接章节 四级标题
     if (i % 20 === 0) {
       if (chapterNum !== 0)
         fs.writeFileSync(
           path.join(resultFolderPath, `./Chapter ${chapterNum}.md`),
-          chapterString
+          chapterString,
         )
       chapterNum++
       chapterString = ''
@@ -292,7 +292,7 @@ function rmEmptyDir(filePath) {
 
 :::
 
-## 5. 🤔 Q&A
+## 5. Q&A
 
 ### 5.1. 🤔 问：如何导入新的词典？
 
@@ -321,7 +321,7 @@ function rmEmptyDir(filePath) {
 
 - 直接给项目提 [Issues](https://github.com/Kaiyiwing/qwerty-learner/issues)（建议 or 问题）即可。
 
-## 6. 🔗 References
+## 6. References
 
 ::: details
 

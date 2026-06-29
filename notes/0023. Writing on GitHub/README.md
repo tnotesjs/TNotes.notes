@@ -2,19 +2,19 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 🔗 Writing on GitHub](#2--writing-on-github)
-- [3. 📒 github 对传统的 markdown 做了一些扩展](#3--github-对传统的-markdown-做了一些扩展)
+- [1. 概述](#1-概述)
+- [2. Writing on GitHub](#2-writing-on-github)
+- [3. github 对传统的 markdown 做了一些扩展](#3-github-对传统的-markdown-做了一些扩展)
   - [3.1. 💻 demo - Using emojis](#31--demo---using-emojis)
   - [3.2. 💻 demo - Alerts](#32--demo---alerts)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 介绍了 GitHub 对 Markdown 的扩展功能，包括使用 Emoji 和 Alerts 来增强文档的表达效果。
 
-## 2. 🔗 Writing on GitHub
+## 2. Writing on GitHub
 
 > - https://docs.github.com/en/get-started/writing-on-github
 >   - Writing on GitHub
@@ -29,7 +29,7 @@
 - 这篇笔记所记录的内容，其实就是 Github 对 markdown 的特殊语法支持，比如 `emoji`、`Alerts`。
 - 具体还有哪些其他特性，直接上官方文档 `Writing on GitHub` 查阅即可。
 
-## 3. 📒 github 对传统的 markdown 做了一些扩展
+## 3. github 对传统的 markdown 做了一些扩展
 
 - 以本节的俩 demo 为例，如果在本地展示的话，效果如下：
   - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-16-15-20-36.png)

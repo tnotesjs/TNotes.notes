@@ -2,11 +2,11 @@
 
 <!-- region:toc -->
 
-- [1. 📒 `win L`](#1--win-l)
+- [1. `win L`](#1-win-l)
 
 <!-- endregion:toc -->
 
-## 1. 📒 `win L`
+## 1. `win L`
 
 - **win + L**
   - 这是锁定屏幕的最快方式。

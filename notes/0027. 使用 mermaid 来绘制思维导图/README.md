@@ -2,31 +2,31 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 📒 缩进语法](#2--缩进语法)
-- [3. 📒 节点形状 - 默认形状节点](#3--节点形状---默认形状节点)
-- [4. 📒 节点形状 - 矩形节点](#4--节点形状---矩形节点)
-- [5. 📒 节点形状 - 圆角矩形节点](#5--节点形状---圆角矩形节点)
-- [6. 📒 节点形状 - 圆形节点](#6--节点形状---圆形节点)
-- [7. 📒 节点形状 - 爆炸 💥 节点](#7--节点形状---爆炸--节点)
-- [8. 📒 节点形状 - 云朵 ☁️ 节点](#8--节点形状---云朵-️-节点)
-- [9. 📒 节点形状 - 六角形节点](#9--节点形状---六角形节点)
-- [10. 📒 图标语法 - `::icon()` - 注：不好使](#10--图标语法---icon---注不好使)
-- [11. 📒 图标的替代方案 - 使用 emoji](#11--图标的替代方案---使用-emoji)
-- [12. 📒 样式语法 - `:::className` - 注：不好使](#12--样式语法---classname---注不好使)
-- [13. 📒 Markdown Strings 特性](#13--markdown-strings-特性)
-- [14. 💻 绘制思维导图测试](#14--绘制思维导图测试)
-- [15. 🔗 References](#15--references)
+- [1. 概述](#1-概述)
+- [2. 缩进语法](#2-缩进语法)
+- [3. 节点形状 - 默认形状节点](#3-节点形状---默认形状节点)
+- [4. 节点形状 - 矩形节点](#4-节点形状---矩形节点)
+- [5. 节点形状 - 圆角矩形节点](#5-节点形状---圆角矩形节点)
+- [6. 节点形状 - 圆形节点](#6-节点形状---圆形节点)
+- [7. 节点形状 - 爆炸 💥 节点](#7-节点形状---爆炸--节点)
+- [8. 节点形状 - 云朵 ☁️ 节点](#8-节点形状---云朵-️-节点)
+- [9. 节点形状 - 六角形节点](#9-节点形状---六角形节点)
+- [10. 图标语法 - `::icon()` - 注：不好使](#10-图标语法---icon---注不好使)
+- [11. 图标的替代方案 - 使用 emoji](#11-图标的替代方案---使用-emoji)
+- [12. 样式语法 - `:::className` - 注：不好使](#12-样式语法---classname---注不好使)
+- [13. Markdown Strings 特性](#13-markdown-strings-特性)
+- [14. 绘制思维导图测试](#14-绘制思维导图测试)
+- [15. References](#15-references)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 该笔记提供了 mermaid 思维导图的语法、缩进规则和节点形状，涵盖了如何通过不同的缩进表示层次关系及自定义节点形状（如矩形、圆形、云朵等）。
 - 补充了图标和样式的用法，但因集成限制，该功能效果不稳定，推荐使用 emoji 作为替代。
 - Markdown Strings 特性使得节点支持格式化文本及多行显示，进一步增强了思维导图的表现力。
 
-## 2. 📒 缩进语法
+## 2. 缩进语法
 
 - 缩进语法
 
@@ -146,7 +146,7 @@ mindmap
         C
 ```
 
-## 3. 📒 节点形状 - 默认形状节点
+## 3. 节点形状 - 默认形状节点
 
 ```
 mindmap
@@ -158,7 +158,7 @@ mindmap
   I am the default shape
 ```
 
-## 4. 📒 节点形状 - 矩形节点
+## 4. 节点形状 - 矩形节点
 
 ```
 mindmap
@@ -183,7 +183,7 @@ mindmap
   [I am a square]
 ```
 
-## 5. 📒 节点形状 - 圆角矩形节点
+## 5. 节点形状 - 圆角矩形节点
 
 ```
 mindmap
@@ -195,7 +195,7 @@ mindmap
   (I am a rounded square)
 ```
 
-## 6. 📒 节点形状 - 圆形节点
+## 6. 节点形状 - 圆形节点
 
 ```
 mindmap
@@ -207,7 +207,7 @@ mindmap
   ((I am a circle))
 ```
 
-## 7. 📒 节点形状 - 爆炸 💥 节点
+## 7. 节点形状 - 爆炸 💥 节点
 
 ```
 mindmap
@@ -219,7 +219,7 @@ mindmap
   ))I am a bang((
 ```
 
-## 8. 📒 节点形状 - 云朵 ☁️ 节点
+## 8. 节点形状 - 云朵 ☁️ 节点
 
 ```
 mindmap
@@ -231,7 +231,7 @@ mindmap
   )I am a cloud(
 ```
 
-## 9. 📒 节点形状 - 六角形节点
+## 9. 节点形状 - 六角形节点
 
 ```
 mindmap
@@ -243,7 +243,7 @@ mindmap
   {{I am a hexagon}}
 ```
 
-## 10. 📒 图标语法 - `::icon()` - 注：不好使
+## 10. 图标语法 - `::icon()` - 注：不好使
 
 > As with flowcharts you can add icons to your nodes but with an updated syntax. The styling for the font based icons are added during the integration so that they are available for the web page. This is not something a diagram author can do but has to be done with the site administrator or the integrator. Once the icon fonts are in place you add them to the mind map nodes using the ::icon() syntax. You place the classes for the icon within the parenthesis like in the following example where icons for material design and Font Awesome 5 are displayed. The intention is that this approach should be used for all diagrams supporting icons. Experimental feature: This wider scope is also the reason Mindmaps are experimental as this syntax and approach could change. from: mermaid 官方文档。
 
@@ -310,7 +310,7 @@ mindmap
     ::icon(mdi mdi-skull-outline)
 ```
 
-## 11. 📒 图标的替代方案 - 使用 emoji
+## 11. 图标的替代方案 - 使用 emoji
 
 ```
 mindmap
@@ -324,7 +324,7 @@ mindmap
     房子 emoji 👉 🏠
 ```
 
-## 12. 📒 样式语法 - `:::className` - 注：不好使
+## 12. 样式语法 - `:::className` - 注：不好使
 
 - 和 icon 一样，需要站点集成，才能正常渲染。
 
@@ -346,7 +346,7 @@ mindmap
         C
 ```
 
-## 13. 📒 Markdown Strings 特性
+## 13. Markdown Strings 特性
 
 - “Markdown Strings”特性，该特性增强了思维导图的功能，支持更多的文本格式选项，并且能够自动换行。
 - Markdown Strings 特性
@@ -386,7 +386,7 @@ Unicode works too: 🤓`"]
     - 普通标签：传统的标签仍然有效，不包含任何 Markdown 格式。
   - 注：上述 id1、id2、id3 仅仅是为了方便笔记记录，方便标注说明。即便删除 id1、id2、id3 它们，渲染结果依旧保持不变。
 
-## 14. 💻 绘制思维导图测试
+## 14. 绘制思维导图测试
 
 - 官方示例 1
 
@@ -470,7 +470,7 @@ mindmap
       Mermaid
 ```
 
-## 15. 🔗 References
+## 15. References
 
 ::: details
 

@@ -2,16 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 📝 概述](#1--概述)
-- [2. 📒 认识 mermaid](#2--认识-mermaid)
-- [3. 💻 通过 npm 安装 mermaid](#3--通过-npm-安装-mermaid)
-- [4. 💻 通过 npm 安装 mermaid-cli](#4--通过-npm-安装-mermaid-cli)
-- [5. 💻 demos.1 - 在网页中引入 mermaid](#5--demos1---在网页中引入-mermaid)
-- [6. 🔗 References](#6--references)
+- [1. 概述](#1-概述)
+- [2. 认识 mermaid](#2-认识-mermaid)
+- [3. 通过 npm 安装 mermaid](#3-通过-npm-安装-mermaid)
+- [4. 通过 npm 安装 mermaid-cli](#4-通过-npm-安装-mermaid-cli)
+- [5. demos.1 - 在网页中引入 mermaid](#5-demos1---在网页中引入-mermaid)
+- [6. References](#6-references)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 概述
   - 这篇笔记对 mermaid 做了一个简单的介绍，并在 markdown 中使用 mermaid 绘制了几张图，需要知道在 markdown 中，我们是可以通过 mermaid 语法来实现文本绘图的，在必要的时候，可以直接在自己的 markdown 文档中手写图表。
@@ -20,7 +20,7 @@
   - 它可集成于 Markdown、GitHub、GitLab、Confluence 等平台，且支持 CLI 工具将图表导出为图片文件。
   - 可通过 npm 安装到 Node.js 项目中，或直接嵌入网页以便实时渲染图表。
 
-## 2. 📒 认识 mermaid
+## 2. 认识 mermaid
 
 - **Mermaid 是一个用于生成图表和流程图的 JavaScript 库**。它允许你使用类似于 Markdown 的简单文本语法来定义图表，然后将其渲染成 **SVG 图形**。
 - Mermaid 支持多种图表类型，包括：
@@ -88,7 +88,7 @@ mindmap
   节点 3
 ```
 
-## 3. 💻 通过 npm 安装 mermaid
+## 3. 通过 npm 安装 mermaid
 
 - 如果使用的是 Node.js 项目，可以通过 npm 安装 Mermaid：
 
@@ -104,7 +104,7 @@ import mermaid from 'mermaid'
 mermaid.initialize({ startOnLoad: true })
 ```
 
-## 4. 💻 通过 npm 安装 mermaid-cli
+## 4. 通过 npm 安装 mermaid-cli
 
 - Mermaid 还提供了一个 CLI 工具，可以将 Mermaid 代码转换为图片文件或其他格式。你可以通过 npm 安装 CLI 工具：
 
@@ -118,14 +118,14 @@ npm install -g @mermaid-js/mermaid-cli
 mmdc -i diagram.mmd -o diagram.png
 ```
 
-## 5. 💻 demos.1 - 在网页中引入 mermaid
+## 5. demos.1 - 在网页中引入 mermaid
 
 <<< ./demos/1/1.html
 
 - 最终效果：
   - ![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-10-11-17-52-40.png)
 
-## 6. 🔗 References
+## 6. References
 
 ::: details
 

@@ -11,13 +11,13 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 📺 视频](#2--视频)
-- [3. 📒 TTSmaker 简介](#3--ttsmaker-简介)
-- [4. 📒 tts-vue 简介](#4--tts-vue-简介)
-- [5. 📒 KanTTS 克隆声音](#5--kantts-克隆声音)
-- [6. 📒 vocalremover 音频在线合成工具](#6--vocalremover-音频在线合成工具)
-- [7. 🤔 Q&A](#7--qa)
+- [1. 概述](#1-概述)
+- [2. 视频](#2-视频)
+- [3. TTSmaker 简介](#3-ttsmaker-简介)
+- [4. tts-vue 简介](#4-tts-vue-简介)
+- [5. KanTTS 克隆声音](#5-kantts-克隆声音)
+- [6. vocalremover 音频在线合成工具](#6-vocalremover-音频在线合成工具)
+- [7. Q&A](#7-qa)
   - [7.1. 🤔 问：在语雀中插入音频资源，可以在线播放吗？](#71--问在语雀中插入音频资源可以在线播放吗)
   - [7.2. 🤔 问：TTSmaker 能不能读小说？](#72--问ttsmaker-能不能读小说)
   - [7.3. 🤔 问：py 的 egg 语音模块？（知识盲区）](#73--问py-的-egg-语音模块知识盲区)
@@ -25,7 +25,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 - 本篇笔记内容：
   - 文本转语音工具 - TTSmaker（主要使用这玩意儿）
@@ -40,7 +40,7 @@
 
 :::
 
-## 2. 📺 视频
+## 2. 视频
 
 <BilibiliOutsidePlayer id="BV1iX4y1a7Fz" />
 
@@ -58,7 +58,7 @@
 
 这是利用 AI 工具产出的视频。
 
-## 3. 📒 TTSmaker 简介
+## 3. TTSmaker 简介
 
 - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-20-00-40.png)
 - **TTSmaker**
@@ -68,7 +68,7 @@
   - https://ttsmaker.com/zh-cn （需要翻墙）
   - https://ttsmaker.cn/ （无需翻墙）
 
-## 4. 📒 tts-vue 简介
+## 4. tts-vue 简介
 
 - tts-vue 是一个开源项目，并且作者承诺永不收费，👇🏻 下面这是 tts-vue 的界面：
 - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-20-03-16.png)
@@ -85,7 +85,7 @@
   - 和作者沟通过，猜测是由于微软官方对体验的接口添加一些限制，导致时不时会出现转换失败的报错，当用户量上去后，访问频率变高，此时往往会出现 `429` 错误。而这个错误，现阶段暂未想到解决方案。
   - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-20-10-24.png)
 
-## 5. 📒 KanTTS 克隆声音
+## 5. KanTTS 克隆声音
 
 <BilibiliOutsidePlayer id="BV1Ch4y1Z7K6" />
 
@@ -95,14 +95,14 @@
 
 > 目前还没去玩过克隆声音，距离视频发布也过去小几年了，现在很可能还有其他更优解，有这方面需求的时候再去找找相关的工具。
 
-## 6. 📒 vocalremover 音频在线合成工具
+## 6. vocalremover 音频在线合成工具
 
 - vocalremover
   - https://vocalremover.org/zh/joiner
   - 功能蛮多的，比如可以将多个音频文件合并为一个。
   - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-20-05-59.png)
 
-## 7. 🤔 Q&A
+## 7. Q&A
 
 ### 7.1. 🤔 问：在语雀中插入音频资源，可以在线播放吗？
 

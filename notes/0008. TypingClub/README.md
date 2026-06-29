@@ -9,19 +9,19 @@
 
 :::
 
-- [1. 📝 概述](#1--概述)
-- [2. 📒 TypingClub 简介](#2--typingclub-简介)
-- [3. 📒 打字指法教程](#3--打字指法教程)
-- [4. 📒 TypeRacer ｜ 一个和 TypingClub 类似的站点（无需 🪜）](#4--typeracer--一个和-typingclub-类似的站点无需-)
-- [5. 💻 使用脚本获取 TypingClub 的 lesson 文本](#5--使用脚本获取-typingclub-的-lesson-文本)
-- [6. 🤔 Q&A](#6--qa)
+- [1. 概述](#1-概述)
+- [2. TypingClub 简介](#2-typingclub-简介)
+- [3. 打字指法教程](#3-打字指法教程)
+- [4. TypeRacer ｜ 一个和 TypingClub 类似的站点（无需 🪜）](#4-typeracer--一个和-typingclub-类似的站点无需-)
+- [5. 使用脚本获取 TypingClub 的 lesson 文本](#5-使用脚本获取-typingclub-的-lesson-文本)
+- [6. Q&A](#6-qa)
   - [6.1. 🤔 问：wpm、kpm 单位是？](#61--问wpmkpm-单位是)
   - [6.2. 🤔 问：Typeracer 是什么？](#62--问typeracer-是什么)
-- [7. 🔗 References](#7--references)
+- [7. References](#7-references)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 概述
 
 <BilibiliOutsidePlayer id="BV1Cv4y1474Y" />
 
@@ -33,7 +33,7 @@
 - 介绍了两个跟打字相关的单位：wpm、kpm
 - 介绍了一个类似 TypingClub 的工具 - Typeracer
 
-## 2. 📒 TypingClub 简介
+## 2. TypingClub 简介
 
 - TypingClub 在线访问 👉🏻 [Free Touch Typing Software](https://www.typingclub.com/)
 - 这个站点中主要包含以下内容：
@@ -41,7 +41,7 @@
   - 打字闯关游戏
   - 打字闯关练习
 
-## 3. 📒 打字指法教程
+## 3. 打字指法教程
 
 - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-03-19-25-37.png)
 - **左手**
@@ -65,7 +65,7 @@
 
 :::
 
-## 4. 📒 TypeRacer ｜ 一个和 TypingClub 类似的站点（无需 🪜）
+## 4. TypeRacer ｜ 一个和 TypingClub 类似的站点（无需 🪜）
 
 - 链接 👉🏻 [https://play.typeracer.com/](https://play.typeracer.com/)
 - 这是一个同事推荐的用于练习打字的站点，无需梯子就可以访问。
@@ -81,7 +81,7 @@
 
 :::
 
-## 5. 💻 使用脚本获取 TypingClub 的 lesson 文本
+## 5. 使用脚本获取 TypingClub 的 lesson 文本
 
 ::: code-group
 
@@ -115,7 +115,7 @@ console.log(lessonStr)
   - 如果你对爬虫有所了解，可以自行写一个脚本去爬取 TypingClub 上的 lesson 文本内容。
   - 如果 lesson 的内容可以通过一张图直接截下来的话，交给 AI 去识别图像中的内容，依次来提取 lesson 文本也是 ok 的。
 
-## 6. 🤔 Q&A
+## 6. Q&A
 
 ### 6.1. 🤔 问：wpm、kpm 单位是？
 
@@ -145,7 +145,7 @@ console.log(lessonStr)
   - **个人发展**：对于希望提高职业技能的成年人，Typeracer 提供了一个有趣的方式来练习键盘打字。
   - **竞技活动**：Typeracer 经常举办比赛和挑战，吸引竞技性玩家参与。
 
-## 7. 🔗 References
+## 7. References
 
 ::: details
 
