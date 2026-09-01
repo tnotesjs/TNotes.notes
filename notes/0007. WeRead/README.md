@@ -57,7 +57,7 @@
 - 微信读书 | 优化记录操作 の 工具分享「网页版」
 - 介绍了微信读书脚本的功能，以及如何使用脚本。
 
-<BilibiliOutsidePlayer id="BV1Ds4y1W7mq" />
+<BilibiliVideo id="BV1Ds4y1W7mq" />
 
 ### 3.2. 📺 bilibili 在线视频链接 - `0007.2`
 
@@ -68,7 +68,7 @@
   - 演示脚本的功能
   - 其他一些不重要的信息 …… 个人写代码时的外界环境记录
 
-<BilibiliOutsidePlayer id="BV1sZ421p7fW" />
+<BilibiliVideo id="BV1sZ421p7fW" />
 
 ## 4. 脚本功能说明
 

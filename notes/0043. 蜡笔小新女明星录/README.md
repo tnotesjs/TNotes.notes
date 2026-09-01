@@ -15,4 +15,4 @@
 - 冈本夏生
 - 山口智子
 
-<BilibiliOutsidePlayer id="BV1a54y167n6" />
+<BilibiliVideo id="BV1a54y167n6" />

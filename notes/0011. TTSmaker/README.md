@@ -42,19 +42,19 @@
 
 ## 2. 视频
 
-<BilibiliOutsidePlayer id="BV1iX4y1a7Fz" />
+<BilibiliVideo id="BV1iX4y1a7Fz" />
 
 - 这是初期录制的一个 TTS Tools 的工具视频，其中 3ts script 是一款自己写的 chrome 浏览器插件。
 
 ---
 
-<BilibiliOutsidePlayer id="BV18H4y1H7GN" />
+<BilibiliVideo id="BV18H4y1H7GN" />
 
 这是介绍如何使用免费的 AI 工具快速创作一条视频。
 
 ---
 
-<BilibiliOutsidePlayer id="BV141421U7tA" />
+<BilibiliVideo id="BV141421U7tA" />
 
 这是利用 AI 工具产出的视频。
 
@@ -87,7 +87,7 @@
 
 ## 5. KanTTS 克隆声音
 
-<BilibiliOutsidePlayer id="BV1Ch4y1Z7K6" />
+<BilibiliVideo id="BV1Ch4y1Z7K6" />
 
 - 在视频发布后，当天晚上查到了这么一个工具：KanTTS。
 - 这个视频时长很短，也就 3min 左右，自行查阅视频了解该工具的功能即可。

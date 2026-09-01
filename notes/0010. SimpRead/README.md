@@ -37,7 +37,7 @@
 
 ## 2. TNotes.bilibili
 
-<BilibiliOutsidePlayer id="BV19v4y1h7mY" />
+<BilibiliVideo id="BV19v4y1h7mY" />
 
 - **视频内容概述**：
   - 简述文档内容，讲清楚每一部分分别存放的是什么东西
@@ -170,7 +170,7 @@ document.onkeydown = (e) => {
 - 想要快速了解 cubox 是什么，可以查看 Bilibili 上的这个视频 👉🏻 [个人碎片知识库，一键收藏、高效整理——Cubox](https://www.bilibili.com/video/BV1ji4y1R7Sf)
 - ![图 15](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-05-04-19-20-44.png)
 
-<BilibiliOutsidePlayer id="BV1ji4y1R7Sf" />
+<BilibiliVideo id="BV1ji4y1R7Sf" />
 
 ### 9.4. 🤔 问：如何使用 SimpRead 搬运语雀上的其他人的文章？
 

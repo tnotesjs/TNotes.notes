@@ -17,7 +17,7 @@
 
 ## 1. 概述
 
-<BilibiliOutsidePlayer id="BV1HM411z7Vn" />
+<BilibiliVideo id="BV1HM411z7Vn" />
 - https://www.bilibili.com/video/BV1HM411z7Vn
   - bilibili 在线视频 👉🏻 手势工具 | WGesture 的使用分享
 

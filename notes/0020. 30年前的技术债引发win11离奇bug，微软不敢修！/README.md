@@ -8,7 +8,7 @@
 
 ## 1. 概述
 
-<BilibiliOutsidePlayer id="BV1Rf421v73F" />
+<BilibiliVideo id="BV1Rf421v73F" />
 
 - https://www.bilibili.com/video/BV1Rf421v73F
 - 介绍了 Windows 环境下路径过长的历史 bug

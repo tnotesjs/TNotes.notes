@@ -15,7 +15,7 @@
 
 ## 2. Claude4 炸裂发布！一句话生成整个网站？程序员慌了
 
-<B id="BV1XwjozKEcb" />
+<BilibiliVideo id="BV1XwjozKEcb" />
 
 - 刚看到一个讲 Claude 4 的视频，顺带着去体验了一下 Claude 4 的编程效果，让它做一个“连连看”小游戏，虽然有 bug，不过效果确实已经很不错了。
 - 听 UP 主介绍，在 cursor 中已经集成了 claude 4。

@@ -8,7 +8,7 @@
 
 ## 1. 概述
 
-<BilibiliOutsidePlayer id="BV1W4k7YqEgU" />
+<BilibiliVideo id="BV1W4k7YqEgU" />
 
 - 视频：基于图论的思维导图开源软件：ProjectGraph 1.0 宣传片
   - 看视频感觉这款软件还行，暂未实际体验过，可以找时间装一下看看效果。

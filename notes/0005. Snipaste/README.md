@@ -79,7 +79,7 @@
 
 ### 3.1. 截图工具 | snipaste 的使用分享
 
-<BilibiliOutsidePlayer id="BV1QR4y1y7GG" />
+<BilibiliVideo id="BV1QR4y1y7GG" />
 
 视频较长 21min，主要介绍了个人日常在使用 snipaste 这款工具时，用到的那些功能。并没有将 snipaste 的所有功能都拿出来介绍。
 
@@ -103,7 +103,7 @@
 
 ### 3.2. 使用 snipaste 截图工具截取图片文件的正确做法
 
-<BilibiliOutsidePlayer id="BV1Ak4y1h7st" />
+<BilibiliVideo id="BV1Ak4y1h7st" />
 
 先来看看传统截图工具的做法，这里以微信截图工具为例，若需要截取一张图片，一共分为两步：
 
@@ -379,7 +379,7 @@ snipaste 的目的就是用图片来做笔记，临时的笔记，所以是贴�
 
 ### 16.1. 视频
 
-<BilibiliOutsidePlayer id="BV1B4BEYQEUr" />
+<BilibiliVideo id="BV1B4BEYQEUr" />
 
 视频中提到的截图工具：
 

@@ -23,7 +23,7 @@
 
 ## 1. 概述
 
-<BilibiliOutsidePlayer id="BV1Cv4y1474Y" />
+<BilibiliVideo id="BV1Cv4y1474Y" />
 
 - 介绍了 TypingClub 这款练习打字的工具
   - 访问 TypingClub 需要梯子

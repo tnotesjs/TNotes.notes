@@ -8,7 +8,7 @@
 
 ## 1. 概述
 
-<BilibiliOutsidePlayer id="BV1as421T7xf" />
+<BilibiliVideo id="BV1as421T7xf" />
 
 - https://www.bilibili.com/video/BV1as421T7xf
 - 介绍了使用百度，搜狗，360 等搜索开源免费软件缺下到盗版收费软件的问题。
