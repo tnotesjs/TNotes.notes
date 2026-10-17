@@ -3,7 +3,7 @@
   "name": "TNotes.notes",
   "description": "早期在 B 站坐的工具分享系列内容，或者存储的一些没有明确分组的笔记的集合。",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--pc.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.notes",
   "port": 9379,
